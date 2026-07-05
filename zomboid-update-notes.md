@@ -1,6 +1,6 @@
 # Zomboid B42.19 Update Notes
 
-Last updated: 2026-07-04 session after adding `cjsForceGroundAttack` for manual floor-attack targeting. Codex must not start Project Zomboid anymore unless the user explicitly reverses that instruction.
+Last updated: 2026-07-04 session after fixing `cjsForceGroundAttack` `AttackVars` field-write spam. Codex must not start Project Zomboid anymore unless the user explicitly reverses that instruction.
 
 Previous 2026-07-04 session: added a configurable `Starving Zombies` corpse-smell delay, patched corpse-smell indoor/outdoor boundary checks, and confirmed the current save's smell settings. Earlier 2026-07-04 session: replaced stale `DrinkSmart` with the direct Workshop B42.15 payload to fix `Drink Smart` context-menu `__le not defined for operand` errors when right-clicking stacked container items.
 
@@ -22,13 +22,15 @@ Do not resume corrupted session `019f15e4-dd1d-7963-9268-d916dfbe69f7`; only rea
 
 - Use `Continue` for the current baseline test unless code/loadout changes require a fresh test or the user asks for a new save.
 - Latest save directory from `latestSave.ini`: `/media/cjstorrs/windows/Users/cjsto/Zomboid/Saves/Sandbox/2026-07-04_10-36-50`.
-- Current newest user-run log: `/media/cjstorrs/windows/Users/cjsto/Zomboid/Logs/2026-07-04_19-59_DebugLog.txt`, with matching `/media/cjstorrs/windows/Users/cjsto/Zomboid/console.txt`. Codex did not launch the game for this pass.
-- Latest CJS Force Ground Attack enablement:
+- Current newest user-run log: `/media/cjstorrs/windows/Users/cjsto/Zomboid/Logs/2026-07-04_21-18_DebugLog.txt`, with matching `/media/cjstorrs/windows/Users/cjsto/Zomboid/console.txt`. Codex did not launch the game for this pass.
+- Latest CJS Force Ground Attack fix:
   - Project-backed mod `/home/cjstorrs/projects/game-mods/zomboid/cjsForceGroundAttack` is live-linked as `/media/cjstorrs/windows/Users/cjsto/Zomboid/mods/cjsForceGroundAttack`.
   - Active ID is `cjsForceGroundAttack`; enabled in latest save `/media/cjstorrs/windows/Users/cjsto/Zomboid/Saves/Sandbox/2026-07-04_10-36-50/mods.txt`, `/media/cjstorrs/windows/Users/cjsto/Zomboid/mods/default.txt`, and preset `b42-4` in `/media/cjstorrs/windows/Users/cjsto/Zomboid/Lua/pz_modlist_settings.cfg`.
-  - Behavior: while `ManualFloorAtk` is held, client Lua forces `setAimAtFloor(true)`, sets B42.19 public `AttackVars.aimAtFloor=true`, `closeKill=false`, and preserves weapon attacks unless the Shove/Stomp key or bare-hands path requires `doShove=true`.
-  - Validation: Lua parses with `luac5.1 -p` and syntax-only `lua5.1 loadfile`; B42.19 bytecode exposes the used public methods/fields; active `42/mod.info` has `id=cjsForceGroundAttack`; `42/poster.png` exists; live relink reports already linked; latest save/default/`b42-4` each include `cjsForceGroundAttack` exactly once and save/default compare identical. Latest logs do not mention this mod yet because Codex did not launch the game after adding it.
-  - Remaining proof: user should restart/reload, hold Manual Floor Attack, and test armed melee, firearm, Shove/Stomp, and bare-hands attacks against prone and nearby standing targets. Check a fresh log for no `[cjsForceGroundAttack]` warnings.
+  - Evidence: the 2026-07-04 21:18 user-run log spammed `Lua((MOD:CJS Force Ground Attack)).pcall(CJSForceGroundAttack.lua:52)` with `attempted index of non-table` while `ManualFloorAtk` was held. The failing line assigned `attackVars.aimAtFloor = true` on Java userdata.
+  - Root cause: B42.19 `AttackVars` has public fields but Kahlua direct field assignment logs errors even inside `pcall`. Bytecode confirms current field names are `aimAtFloor`, `closeKill`, and `doShove`.
+  - Fix: project-backed `42/media/lua/client/CJSForceGroundAttack.lua` now uses cached `getNumClassFields` / `getClassField` reflection and `Field:setBoolean(...)` to set those fields, while keeping the existing player-level `setAimAtFloor(true)` / `setDoShove(...)` behavior.
+  - Validation: changed Lua parses with `luac5.1 -p` and syntax-only `lua5.1 loadfile`; `git diff --check` passes; no direct `attackVars.foo = ...` assignment remains; active `42/mod.info` has `id=cjsForceGroundAttack`; `42/poster.png` exists; live relink reports already linked and live file matches project through the symlink; latest save/default/`b42-4` each include `cjsForceGroundAttack` exactly once.
+  - Remaining proof: user should restart/reload, hold Manual Floor Attack, and test armed melee, firearm, Shove/Stomp, and bare-hands attacks against prone and nearby standing targets. Check a fresh log for no `CJS Force Ground Attack` / `CJSForceGroundAttack.lua` / `attempted index of non-table` stacktrace and no `[cjsForceGroundAttack]` warnings.
 - Latest Interactive Tailoring inspect-clothing fix:
   - Evidence: the newest console/log loaded `InteractiveTailoring`; inspecting clothing through CleanUI hit `Lua((MOD:Interactive Tailoring)).getItemsFromAccessibleContainers(interactiveTailoring_ui.lua:115)` with `expected argument of type ItemTag, got String`.
   - Root cause: local commit `2f53834` added accessible-container searching after the earlier tag fix, but the local helper still passed string tags through `container:getAllTagRecurse(...)`. B42.19 requires typed `ItemTag` objects.
