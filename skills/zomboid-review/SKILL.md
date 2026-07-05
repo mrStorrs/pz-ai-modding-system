@@ -51,7 +51,7 @@ Run only the probes relevant to the changed files and user request.
 
 ### Loot, EasyDistro, Capsules, Wrappers
 
-- If the task touches loot distribution, EasyDistro, spawn rates, zombie/container loot, capsules, packs, boxes, wrappers, or contained item definitions, read and apply `/home/cjstorrs/projects/game-mods/zomboid/.claude/instructions/easy-distributions.md`.
+- If the task touches loot distribution, EasyDistro, spawn rates, zombie/container loot, capsules, packs, boxes, wrappers, or contained item definitions, read and apply `/home/cjstorrs/projects/game-mods/zomboid/instructions/easy-distributions.md`.
 - Audit all active spawn paths in repo and live install: versioned folders, root `media`, `ProceduralDistributions`, `SuburbsDistributions`, `VehicleDistributions`, `OnFillContainer`, zombie inventory, EasyDistro calls, and custom roll code.
 - For wrapper/capsule loot, prove raw contents cannot spawn directly. Check item tags, display categories, memento tags, fuel/tinder tags, old root loot files, and upstream compatibility patches.
 - Treat EasyDistro injection logs as necessary but insufficient. Review effective probability after sandbox/category multipliers.

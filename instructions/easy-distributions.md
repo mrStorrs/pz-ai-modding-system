@@ -1,4 +1,4 @@
-# Claude Instruction: Easy Distributions Loot
+# Easy Distributions Loot
 
 Apply this instruction when adding loot to Project Zomboid mods in this workspace or fixing loot in existing mods.
 
