@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zomboid Review"
+  short_description: "Review Project Zomboid mod changes"
+  default_prompt: "Use $zomboid-review to audit this Project Zomboid mod change before closeout."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zomboid Bug Fixing"
+  short_description: "Debug and fix Project Zomboid mods"
+  default_prompt: "Use $zomboid-bug-fixing to inspect logs and fix a Project Zomboid mod bug."

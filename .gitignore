@@ -1,0 +1,13 @@
+# Ignore every top-level directory by default. This workspace contains many
+# independent Project Zomboid mod repos, and the parent repo must not absorb them.
+/*/
+
+# Track workspace instructions that are referenced by AGENTS.md and skills.
+!/.claude/
+/.claude/*
+!/.claude/instructions/
+!/.claude/instructions/**
+
+# Track workspace-owned Codex skills moved out of ~/.codex/skills.
+!/skills/
+!/skills/**

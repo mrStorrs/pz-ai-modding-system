@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zomboid Modding"
+  short_description: "Project Zomboid mods, load lists, and links"
+  default_prompt: "Use $zomboid-modding to create, fork, install, fix, or update load lists for a Project Zomboid Build 42 mod."
