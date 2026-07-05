@@ -90,5 +90,5 @@ Use these rules for Project Zomboid mod repos in `~/projects/game-mods/zomboid`.
 ## Instruction Maintenance
 
 - If the work reveals a new recurring Project Zomboid problem, compatibility pitfall, validation pattern, or durable fix that future sessions should remember, update the relevant workspace or skill instructions while the context is fresh.
-- Keep durable generic guidance in `b42.19-codex-instructions.md`; keep current loadout, exact log paths, one-off decisions, and mod-specific state in `zomboid-update-notes.md` or its archive.
+- Keep durable generic guidance in `b42.19-codex-instructions.md`; do not recreate one-off current-state notes unless the user explicitly asks.
 - Keep instruction updates concise, evidence-backed, and separate from unrelated refactors or historical cleanup.

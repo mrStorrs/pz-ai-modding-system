@@ -7,3 +7,9 @@
 !/instructions/**
 !/skills/
 !/skills/**
+
+# Track reusable workspace helpers, but keep local binaries and generated output ignored.
+!/.tools/
+/.tools/*
+!/.tools/decompile-pz.sh
+!/.tools/pz-continue-debug.sh

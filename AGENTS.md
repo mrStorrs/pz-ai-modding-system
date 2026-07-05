@@ -27,3 +27,9 @@ Before adding new loot or fixing existing loot that uses Nep Easy Distributions,
 `instructions/easy-distributions.md`
 
 That guide defines how EasyDistro multipliers work, what distribution tables EasyDistro actually scans, how to handle capsule/wrapper loot, and how to preserve sandbox compatibility.
+
+## Workspace Tools
+
+- `.tools/decompile-pz.sh` is a tracked helper for decompiling Project Zomboid Java classes into the ignored `.pz-reference/` tree. It requires a local Vineflower jar at `.tools/vineflower.jar` or `VINEFLOWER_JAR=/path/to/vineflower.jar`.
+- `.tools/pz-continue-debug.sh` is a tracked local debug launcher that starts Project Zomboid, clicks through Continue, and captures diagnostics under ignored `.runtime/`.
+- `.lua-scripts/` is scratch space for one-off in-game Lua repair snippets. Do not track it unless a script is deliberately promoted into reusable tooling.
