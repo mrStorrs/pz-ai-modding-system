@@ -1,14 +1,14 @@
 # Zomboid Workspace Instructions
 
-This workspace contains Project Zomboid mods. Its Codex Zomboid skills are project-local in `skills/` so they only apply when Codex is working from this repo.
+This workspace contains Project Zomboid mods. Its Codex Zomboid skills are project-local in `.codex/skills/` so they only apply when Codex is working from this repo.
 
 ## Project-Local Codex Skills
 
 Before Project Zomboid mod work in this workspace, read the relevant local skill completely:
 
-- `skills/zomboid-modding/SKILL.md` for mod creation, maintenance, packaging, live linking, load-list updates, and general mod workflow.
-- `skills/zomboid-bug-fixing/SKILL.md` for logs, Lua errors, broken behavior, missing assets, save-compatible fixes, and loot/spawn bugs.
-- `skills/zomboid-review/SKILL.md` after any Project Zomboid mod code, packaging, live-install, mod-list, or asset-reference change.
+- `.codex/skills/zomboid-modding/SKILL.md` for mod creation, maintenance, packaging, live linking, load-list updates, and general mod workflow.
+- `.codex/skills/zomboid-bug-fixing/SKILL.md` for logs, Lua errors, broken behavior, missing assets, save-compatible fixes, and loot/spawn bugs.
+- `.codex/skills/zomboid-review/SKILL.md` after any Project Zomboid mod code, packaging, live-install, mod-list, or asset-reference change.
 
 Do not recreate symlinks from `~/.codex/skills` unless the user explicitly asks. Global symlinks make these skills active outside this workspace.
 
@@ -24,7 +24,7 @@ That guide captures the concrete B42.12 -> B42.19 pitfalls learned in this works
 
 Before adding new loot or fixing existing loot that uses Nep Easy Distributions, read and apply:
 
-`instructions/easy-distributions.md`
+`.codex/instructions/easy-distributions.md`
 
 That guide defines how EasyDistro multipliers work, what distribution tables EasyDistro actually scans, how to handle capsule/wrapper loot, and how to preserve sandbox compatibility.
 

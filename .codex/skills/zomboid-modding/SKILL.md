@@ -41,12 +41,12 @@ Use these rules for Project Zomboid mod repos in `~/projects/game-mods/zomboid`.
 
 ## Loot Work
 
-- If the task touches loot distribution, EasyDistro, spawn rates, zombie/container loot, capsules, packs, boxes, wrappers, or contained item definitions that may affect spawning, read and apply `/home/cjstorrs/projects/game-mods/zomboid/instructions/easy-distributions.md` before editing.
+- If the task touches loot distribution, EasyDistro, spawn rates, zombie/container loot, capsules, packs, boxes, wrappers, or contained item definitions that may affect spawning, read and apply `/home/cjstorrs/projects/game-mods/zomboid/.codex/instructions/easy-distributions.md` before editing.
 - If that workspace instruction file is missing, continue with this skill and inspect the relevant mod's current loot path before changing code.
 
 ## Post-Change Review Gate
 
-- After any code, script, asset-reference, packaging, sandbox, mod-list, or live-install change, read and apply `/home/cjstorrs/projects/game-mods/zomboid/skills/zomboid-review/SKILL.md` before final closeout.
+- After any code, script, asset-reference, packaging, sandbox, mod-list, or live-install change, read and apply `/home/cjstorrs/projects/game-mods/zomboid/.codex/skills/zomboid-review/SKILL.md` before final closeout.
 - Scope the review to the touched mod and changed domains, but do not skip it for small edits. The review must at least cover changed files, active B42 layout, live-install drift when applicable, latest relevant logs when available, syntax/line-ending checks, and any domain probes that match the change.
 - If the review finds issues and the user asked for implementation, apply focused fixes, rerun the relevant validation, relink the project-backed live mod if needed, and rerun the affected review checks before finishing.
 - If the change cannot be proven outside Project Zomboid, state the exact in-game validation still required after the review gate passes.

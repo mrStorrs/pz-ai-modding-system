@@ -33,12 +33,12 @@ Use this skill when a Project Zomboid mod is broken and you need to find the cau
 
 ### Loot and spawn bugs
 
-- If the failure concerns loot distribution, EasyDistro, spawn rates, zombie/container loot, capsules, packs, boxes, wrappers, or contained items appearing directly in loot, read and apply `/home/cjstorrs/projects/game-mods/zomboid/instructions/easy-distributions.md` before deciding on a fix.
+- If the failure concerns loot distribution, EasyDistro, spawn rates, zombie/container loot, capsules, packs, boxes, wrappers, or contained items appearing directly in loot, read and apply `/home/cjstorrs/projects/game-mods/zomboid/.codex/instructions/easy-distributions.md` before deciding on a fix.
 - If that workspace instruction file is missing, continue with this skill and identify the mod's actual loot path before editing.
 
 ### Post-change review gate
 
-- After any code, script, asset-reference, packaging, sandbox, mod-list, or live-install change, read and apply `/home/cjstorrs/projects/game-mods/zomboid/skills/zomboid-review/SKILL.md` before final closeout.
+- After any code, script, asset-reference, packaging, sandbox, mod-list, or live-install change, read and apply `/home/cjstorrs/projects/game-mods/zomboid/.codex/skills/zomboid-review/SKILL.md` before final closeout.
 - Scope the review to the touched mod and bug domain, but do not skip it for small fixes. The review must at least cover changed files, active B42 layout, live-install drift when applicable, latest relevant logs, syntax/line-ending checks, and any domain probes that match the failure.
 - If the review finds issues, apply focused fixes when they are within the user-approved bug-fix scope, rerun validation, relink the project-backed live mod if needed, and rerun the affected review checks before finishing.
 - If the remaining proof requires Project Zomboid itself, state the exact in-game reproduction or log check still required.

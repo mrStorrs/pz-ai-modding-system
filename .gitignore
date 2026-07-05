@@ -2,11 +2,13 @@
 # independent Project Zomboid mod repos, and the parent repo must not absorb them.
 /*/
 
-# Track workspace instructions and Codex skills.
-!/instructions/
-!/instructions/**
-!/skills/
-!/skills/**
+# Track project-local Codex instructions and skills.
+!/.codex/
+/.codex/*
+!/.codex/instructions/
+!/.codex/instructions/**
+!/.codex/skills/
+!/.codex/skills/**
 
 # Track reusable workspace helpers, but keep local binaries and generated output ignored.
 !/.tools/
