@@ -20,6 +20,12 @@ Before doing Project Zomboid B42.19 migration, compatibility, live-install, mod-
 
 That guide captures the concrete B42.12 -> B42.19 pitfalls learned in this workspace, including direct-Workshop rules, active load-list behavior, Linux path shims, B42.19 Lua/API migrations, native helper patches, translation compatibility, and per-mod lessons.
 
+## Patch Mods For Existing Mods
+
+When adding CJS-only behavior to a third-party or Workshop-backed mod, prefer a separate patch/tweaks mod over overwriting the target mod. Overwrite only when a patch cannot safely layer the change, when refreshing from a verified current Workshop payload, or when the user explicitly asks.
+
+Patch/tweaks repos must be named `pz-<mod-name>-cjs-tweaks`, with `<mod-name>` in kebab-case, e.g. CleanUI -> `pz-clean-ui-cjs-tweaks`. Use the same words without `pz-` for the project folder and `mod.info` `id=`, converted to lower camelCase, e.g. CleanUI -> `cleanUiCjsTweaks`.
+
 ## Easy Distributions
 
 Before adding new loot or fixing existing loot that uses Nep Easy Distributions, read and apply:

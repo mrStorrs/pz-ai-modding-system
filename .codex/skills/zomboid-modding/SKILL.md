@@ -13,6 +13,7 @@ Use this skill for Project Zomboid mod work. Prefer the layout already used by n
 - Preserve existing user edits and existing mod IDs. Do not rename IDs, folders, or version folders unless the user asks or the current layout is broken.
 - For existing third-party or Workshop-backed mods, check the local Workshop copy before importing, forking, or patching locally. Inspect `/media/cjstorrs/windows/Program Files (x86)/Steam/steamapps/workshop/content/108600` and match by `mod.info` `id=`, active version folder, and relevant files to see whether the fix or update already exists upstream.
 - If the Workshop copy already contains the needed fix or a newer compatible update, prefer refreshing/replacing the live copy from Workshop over maintaining a local project patch. Do not import or fork a Workshop mod just to fix an issue already fixed upstream.
+- When adding CJS-only behavior to an existing third-party or Workshop-backed mod, prefer a separate CJS patch/tweaks mod over overwriting upstream files. Overwrite the upstream/live copy only when a patch cannot safely layer the behavior, when the user explicitly asks, or when replacing stale local files with a verified current Workshop payload.
 - For new or forked CJS mods, work in `~/projects/game-mods/zomboid/<modName>` first. Install into the live Zomboid mods folder only after project validation.
 - In the live `Zomboid/mods` workspace, mods must be direct children of `mods/`, not under `Contents/mods/`.
 - Project-backed mods live under `~/projects/game-mods/zomboid/<modName>`. Their live installs are symlinks back to those project folders, not copied folders.
@@ -26,11 +27,25 @@ Use these rules for Project Zomboid mod repos in `~/projects/game-mods/zomboid`.
 - Keep the local mod folder name and `mod.info` `id=` stable unless the user explicitly asks to rename them.
 - Local repos use `main` as the default branch. If initializing, run `git init -b main`; if a repo already exists without `main`, create `main` from `master` or current `HEAD` before the first push.
 - GitHub repo names must start with `pz-` and be lowercase kebab-case from the project folder name, e.g. `cjsQuickZoom` -> `pz-cjs-quick-zoom`. Remove apostrophes, convert `&` to `and`, `+` to `plus`, split camel case and digit/letter boundaries, collapse repeated separators, and do not rename the local mod folder to match the repo.
+- For CJS patch/tweaks mods for existing mods, use the CJS patch mod convention below instead of deriving the repo name from the local folder.
 - Create or update the GitHub repo under `mrStorrs`. Make clearly new, non-forked CJ-authored mods public only when `mod.info` or project context shows `author=CJ Storrs` and no fork/source-derived wording such as `fork`, `based on`, or `repack`; make forks, imports, third-party mods, Workshop-backed mods, helpers, and ambiguous repos private.
 - After the first push of a public repo, protect `main`: set it as the default branch, disallow force pushes and deletions, and enforce protection for admins. Do not require status checks or reviews unless the repo already has that policy.
 - Set `origin` to `git@github.com:mrStorrs/<repo>.git`. Push `main`, all local branches, and tags after repo creation.
 - After every commit made by this skill, immediately run a normal `git push` for the committed branch. Do not force-push. If the repo has no remote yet, create/configure it with these rules first, then push.
 - If GitHub hits a secondary content-creation limit while creating repos, back off and retry the same missing repo set; do not create alternate names.
+
+## CJS Patch Mods For Existing Mods
+
+When CJS needs local fixes or quality-of-life tweaks for an existing third-party or Workshop mod and the upstream mod can remain the source of truth, create a separate patch/tweaks mod instead of editing or importing the upstream payload.
+
+- Prefer a patch/tweaks mod over overwriting the target mod. Overwrite the target only when the behavior cannot safely be layered, when replacing stale local files with a verified current Workshop payload, or when the user explicitly asks for an overwrite.
+- Derive `<mod-name>` from the target mod display name, folder name, or stable `id=` by lowercasing, splitting camel case and word boundaries, removing punctuation, converting `&` to `and`, converting `+` to `plus`, and collapsing separators into kebab-case.
+- GitHub repo names must be `pz-<mod-name>-cjs-tweaks`, e.g. CleanUI -> `pz-clean-ui-cjs-tweaks`.
+- Project folder names and `mod.info` `id=` values should use the same words without `pz-`, converted to lower camelCase, e.g. CleanUI -> `cleanUiCjsTweaks`.
+- Set `mod.info` `name=` to `CJS <Target Mod Name> Tweaks`.
+- Add `require=\<TargetModId>` in `mod.info`, and enable the patch immediately after the target mod in active load lists.
+- Keep patch mods narrow and namespaced. Do not copy upstream files unless overriding a specific Lua, script, asset, or load path is required.
+- Make these repos private unless project context proves the patch is clearly CJ-authored, non-forked, and safe to publish.
 
 ## Root-Cause Fixes
 
