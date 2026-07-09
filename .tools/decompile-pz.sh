@@ -8,13 +8,14 @@
 #   decompile-pz.sh zombie/iso/areas/SafeHouse.class
 #   decompile-pz.sh zombie/inventory
 #
-# Source classes come from the installed PZ build below (GOG 42.12, the version CJS mods
-# target -- see versionMin in each mod.info). Output is written to .pz-reference/<ver>/src/,
-# mirroring the zombie/... package path, so it can be grepped/read directly.
+# Source classes come from the active local PZ build jar. Output is written to
+# .pz-reference/<ver>/src/, mirroring the zombie/... package path, so it can be
+# grepped/read directly.
 set -euo pipefail
 
-PZ_ROOT="/media/cjstorrs/windows/Program Files (x86)/GOG Galaxy/Games/Project Zomboid"
-PZ_VERSION="42.12"
+PZ_ROOT="${PZ_ROOT:-/home/cjstorrs/games/Project Zomboid Linux 42.19.0/game/projectzomboid}"
+PZ_JAR="${PZ_JAR:-$PZ_ROOT/projectzomboid.jar}"
+PZ_VERSION="${PZ_VERSION:-42.19}"
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REF_DIR="$SCRIPT_DIR/../.pz-reference/$PZ_VERSION"
 VINEFLOWER="${VINEFLOWER_JAR:-$SCRIPT_DIR/vineflower.jar}"
@@ -24,11 +25,11 @@ if [ $# -ne 1 ]; then
     exit 1
 fi
 
-target="$1"
-src="$PZ_ROOT/$target"
+target="${1#/}"
+target="${target%/}"
 
-if [ ! -e "$src" ]; then
-    echo "Not found in PZ install: $src" >&2
+if [ ! -f "$PZ_JAR" ]; then
+    echo "Project Zomboid jar not found: $PZ_JAR" >&2
     exit 1
 fi
 
@@ -38,24 +39,41 @@ if [ ! -f "$VINEFLOWER" ]; then
     exit 1
 fi
 
-mkdir -p "$REF_DIR/src/zombie"
-
-# Vineflower mirrors the input's package-relative structure under the output dir, but drops the
-# leading "zombie" segment when fed a path inside zombie/ -- decompile into a temp dir, then
-# fold the result under src/zombie/ so the on-disk layout always matches the Java package path.
-tmpout="$(mktemp -d)"
-trap 'rm -rf "$tmpout"' EXIT
-
-java -jar "$VINEFLOWER" --log-level=warn "$src" "$tmpout"
-
-if [ -d "$tmpout/zombie" ]; then
-    cp -rf "$tmpout/zombie/." "$REF_DIR/src/zombie/"
+entries=()
+if [[ "$target" == *.class ]]; then
+    base="${target%.class}"
+    while IFS= read -r entry; do
+        if [[ "$entry" == "$target" || "$entry" == "$base"\$*.class ]]; then
+            entries+=("$entry")
+        fi
+    done < <(jar tf "$PZ_JAR")
 else
-    # Path was already inside zombie/<...>; reconstruct the matching subpath.
-    rel="${target#zombie/}"
-    rel_dir="$(dirname "$rel")"
-    mkdir -p "$REF_DIR/src/zombie/$rel_dir"
-    cp -rf "$tmpout/." "$REF_DIR/src/zombie/$rel_dir/"
+    prefix="$target/"
+    while IFS= read -r entry; do
+        if [[ "$entry" == "$prefix"*.class ]]; then
+            entries+=("$entry")
+        fi
+    done < <(jar tf "$PZ_JAR")
 fi
 
-echo "Decompiled into $REF_DIR/src/zombie/$(dirname "${target#zombie/}")/"
+if [ "${#entries[@]}" -eq 0 ]; then
+    echo "Not found in PZ jar: $target" >&2
+    exit 1
+fi
+
+mkdir -p "$REF_DIR/src"
+
+tmpin="$(mktemp -d)"
+tmpout="$(mktemp -d)"
+trap 'rm -rf "$tmpin" "$tmpout"' EXIT
+
+(
+    cd "$tmpin"
+    jar xf "$PZ_JAR" "${entries[@]}"
+)
+
+java -jar "$VINEFLOWER" --log-level=warn "$tmpin" "$tmpout"
+
+cp -rf "$tmpout/." "$REF_DIR/src/"
+
+echo "Decompiled ${#entries[@]} class file(s) into $REF_DIR/src/"
