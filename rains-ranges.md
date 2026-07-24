@@ -34,69 +34,69 @@ range statistics.
 
 | Firearm | Sight | Max | Gap |
 |---|---:|---:|---:|
-| Long Ranger Rifle | 10 | 40 | 30 |
-| Remington M788 | 10 | 45 | 35 |
-| Remington M24 | 10 | 50 | 40 |
-| AR-15 | 10 | 35 | 25 |
-| SKS-56 | 10 | 35 | 25 |
-| Marlin M1894 | 10 | 32 | 22 |
+| Long Ranger Rifle | 24 | 44 | 20 |
+| Remington M788 | 26 | 48 | 22 |
+| Remington M24 | 28 | 52 | 24 |
+| AR-15 | 21 | 38 | 17 |
+| SKS-56 | 20 | 37 | 17 |
+| Marlin M1894 | 19 | 34 | 15 |
 
 ## Battle Rifles, Assault Rifles, and Carbines
 
 | Firearm | Sight | Max | Gap |
 |---|---:|---:|---:|
-| M14 variants | 10 | 40 | 30 |
-| H&K G3 variants | 10 | 38 | 28 |
-| M16A2 variants | 10 | 35 | 25 |
-| M16A1 variants | 10 | 34 | 24 |
-| Galil | 10 | 35 | 25 |
-| Colt Commando variants | 10 | 30 | 20 |
-| Honey Badger variants | 10 | 25 | 15 |
-| Charlie's Angel variants | 10 | 34 | 24 |
-| HK G36 variants | 10 | 35 | 25 |
-| HK G36C variants | 10 | 28 | 18 |
-| AK-47 variants | 10 | 34 | 24 |
-| RK-62 variants | 10 | 35 | 25 |
-| RK-95 variants | 10 | 34 | 24 |
-| AK-105 variants | 10 | 29 | 19 |
-| AK-105 Folded | 10 | 27 | 17 |
+| M14 variants | 18 | 42 | 24 |
+| H&K G3 variants | 17 | 40 | 23 |
+| M16A2 variants | 16 | 38 | 22 |
+| M16A1 variants | 15 | 37 | 22 |
+| Galil | 16 | 38 | 22 |
+| Colt Commando variants | 14 | 33 | 19 |
+| Honey Badger variants | 12 | 29 | 17 |
+| Charlie's Angel variants | 16 | 38 | 22 |
+| HK G36 variants | 17 | 39 | 22 |
+| HK G36C variants | 14 | 32 | 18 |
+| AK-47 variants | 15 | 37 | 22 |
+| RK-62 variants | 16 | 38 | 22 |
+| RK-95 variants | 17 | 39 | 22 |
+| AK-105 variants | 14 | 32 | 18 |
+| AK-105 Folded | 12 | 29 | 17 |
 
 ## Submachine Guns
 
 | Firearm | Sight | Max | Gap |
 |---|---:|---:|---:|
-| MP5 variants | 10 | 24 | 14 |
-| MP5SD variants | 10 | 21 | 11 |
-| Uzi | 6 | 20 | 14 |
-| MAC-10 | 6 | 18 | 12 |
-| Thompson variants | 10 | 24 | 14 |
-| Kriss Vector variants | 10 | 21 | 11 |
+| MP5 variants | 11 | 26 | 15 |
+| MP5SD variants | 10 | 24 | 14 |
+| Uzi | 8 | 23 | 15 |
+| MAC-10 | 6 | 20 | 14 |
+| Thompson variants | 11 | 26 | 15 |
+| Kriss Vector variants | 10 | 24 | 14 |
 
 ## Machine Guns
 
 | Firearm | Sight | Max | Gap |
 |---|---:|---:|---:|
-| M249 | 10 | 32 | 22 |
-| M60 | 10 | 34 | 24 |
-| Old Painless Minigun | 10 | 28 | 18 |
+| M249 | 15 | 37 | 22 |
+| M60 | 17 | 40 | 23 |
+| Old Painless Minigun | 10 | 32 | 22 |
 
 ## Shotguns
 
 | Firearm | Sight | Max | Gap |
 |---|---:|---:|---:|
-| Remington M870 | 8 | 17 | 9 |
-| Remington M11-87 | 8 | 17 | 9 |
-| Sawn-off M11-87 | 8 | 14 | 6 |
-| Sawn-off M11-87, stockless | 8 | 12 | 4 |
-| Remington Coach Gun | 9 | 20 | 11 |
-| Sawn-off Coach Gun | 3 | 15 | 12 |
-| Sawn-off Coach Gun, stockless | 3 | 12 | 9 |
-| Sawn-off M870 | 3 | 15 | 12 |
-| Sawn-off M870, stockless | 3 | 12 | 9 |
-| AA-12 | 8 | 16 | 8 |
-| Mossberg M590 Tactical | 8 | 18 | 10 |
+| Remington M870 | 8 | 16 | 8 |
+| Remington M11-87 | 8 | 16 | 8 |
+| Sawn-off M11-87 | 5 | 12 | 7 |
+| Sawn-off M11-87, stockless | 3 | 10 | 7 |
+| Remington Coach Gun | 9 | 17 | 8 |
+| Sawn-off Coach Gun | 5 | 12 | 7 |
+| Sawn-off Coach Gun, stockless | 3 | 10 | 7 |
+| Sawn-off M870 | 5 | 12 | 7 |
+| Sawn-off M870, stockless | 3 | 10 | 7 |
+| AA-12 | 8 | 14 | 6 |
+| Mossberg M590 Tactical | 8 | 17 | 9 |
 | Winchester M1887 | 8 | 15 | 7 |
-| SPAS-12 | 8 | 17 | 9 |
+| SPAS-12 | 8 | 16 | 8 |
 
 ## How Aiming Skill Changes These Values
 
