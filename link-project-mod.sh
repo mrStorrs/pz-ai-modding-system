@@ -16,4 +16,4 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 SOURCE_ROOT="$SCRIPT_DIR" \
 DEST_ROOT="/home/cjstorrs/games/Project Zomboid Linux 42.20.0/user-data/Zomboid/mods" \
 MOD_NAME="$1" \
-"$SCRIPT_DIR/../link-zomboid-project-mods.sh"
+"$SCRIPT_DIR/link-zomboid-project-mods.sh"

@@ -97,7 +97,7 @@ Exception: if the user explicitly asks or approves abandoning a project-backed c
 
 Use `~/projects/game-mods/zomboid/link-project-mod.sh <modFolder>` to link one project-backed mod into the live Zomboid mods folder. It creates or replaces the live entry with a symlink back to `~/projects/game-mods/zomboid/<modFolder>` and uses the project folder's exact casing for the live symlink name.
 
-Use `~/projects/game-mods/link-zomboid-project-mods.sh` for broad live reconciliation. With no mod argument, it only reconciles project-backed mods that are already present live as folders or symlinks; it does not link every project-only folder. With a positional mod folder or `MOD_NAME=<modFolder>`, it links that single project folder.
+Use `~/projects/game-mods/zomboid/link-zomboid-project-mods.sh` for broad live reconciliation. With no mod argument, it only reconciles project-backed mods that are already present live as folders or symlinks; it does not link every project-only folder. With a positional mod folder or `MOD_NAME=<modFolder>`, it links that single project folder.
 
 When importing an existing live CJS Zomboid mod into the game-mods project:
 
