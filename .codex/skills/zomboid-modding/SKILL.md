@@ -1,6 +1,6 @@
 ---
 name: zomboid-modding
-description: Project Zomboid mod creation and maintenance workflow for local B42 mods. Use when Codex is creating, forking, fixing, packaging, installing, linking, or debugging a Project Zomboid mod; working in a Zomboid mods directory; adding or fixing loot distribution, EasyDistro, spawn rates, capsules, packs, or wrapper loot; importing live mods into `~/projects/game-mods/zomboid`; installing project-backed mods into the live Zomboid mods folder as symlinks; updating save/default/preset mod lists; adding Lua/scripts/assets/mod.info/posters; initializing a project mod repo; or troubleshooting mods not appearing in the in-game mod list, especially due to Build 42 `42/` and `Common/` folder structure.
+description: Project Zomboid mod creation and maintenance workflow for local B42.20 mods. Use when Codex is creating, forking, fixing, packaging, installing, linking, or debugging a Project Zomboid mod; working in a Zomboid mods directory; adding or fixing loot distribution, EasyDistro, spawn rates, capsules, packs, or wrapper loot; importing live mods into `~/projects/game-mods/zomboid`; installing project-backed mods into the B42.20 live mods folder as symlinks; updating save/default/preset mod lists; adding Lua/scripts/assets/mod.info/posters; initializing a project mod repo; or troubleshooting mods not appearing in the in-game mod list, especially due to the `42.20/` and lowercase `common/` folder structure on Linux.
 ---
 
 # Zomboid Modding
@@ -9,13 +9,14 @@ Use this skill for Project Zomboid mod work. Prefer the layout already used by n
 
 ## First Checks
 
+- Read and apply `b42.20-codex-instructions.md`; B42.20 is the only active and supported build for this workspace.
 - Inspect the current folder and nearby mods before creating files: `pwd`, `find . -maxdepth 3 -type f -iname mod.info | sort`, and one or two similar `cjs*` mods.
 - Preserve existing user edits and existing mod IDs. Do not rename IDs, folders, or version folders unless the user asks or the current layout is broken.
 - For existing third-party or Workshop-backed mods, check the local Workshop copy before importing, forking, or patching locally. Inspect `/media/cjstorrs/windows/Program Files (x86)/Steam/steamapps/workshop/content/108600` and match by `mod.info` `id=`, active version folder, and relevant files to see whether the fix or update already exists upstream.
 - If the Workshop copy already contains the needed fix or a newer compatible update, prefer refreshing/replacing the live copy from Workshop over maintaining a local project patch. Do not import or fork a Workshop mod just to fix an issue already fixed upstream.
 - When adding CJS-only behavior to an existing third-party or Workshop-backed mod, prefer a separate CJS patch/tweaks mod over overwriting upstream files. Overwrite the upstream/live copy only when a patch cannot safely layer the behavior, when the user explicitly asks, or when replacing stale local files with a verified current Workshop payload.
 - For new or forked CJS mods, work in `~/projects/game-mods/zomboid/<modName>` first. Install into the live Zomboid mods folder only after project validation.
-- In the live `Zomboid/mods` workspace, mods must be direct children of `mods/`, not under `Contents/mods/`.
+- In the B42.20 live mods root, mods must be direct children of `mods/`, not under `Contents/mods/`.
 - Project-backed mods live under `~/projects/game-mods/zomboid/<modName>`. Their live installs are symlinks back to those project folders, not copied folders.
 - For every new or imported mod project, initialize the project repo and GitHub remote using the GitHub repo setup rules below before editing.
 - Before making changes, create an initial baseline commit containing only the copied/imported mod files unless the user explicitly asks not to commit, then push it.
@@ -56,7 +57,8 @@ When CJS needs local fixes or quality-of-life tweaks for an existing third-party
 
 ## Loot Work
 
-- If the task touches loot distribution, EasyDistro, spawn rates, zombie/container loot, capsules, packs, boxes, wrappers, or contained item definitions that may affect spawning, read and apply `/home/cjstorrs/projects/game-mods/zomboid/.codex/instructions/easy-distributions.md` before editing.
+- Read and apply `/home/cjstorrs/projects/game-mods/zomboid/.codex/instructions/easy-distributions.md` only when the task modifies an item's loot distribution, such as adding or removing that item from loot tables or changing how often it appears there.
+- Do not invoke the guide merely because a mod contains capsules, packs, boxes, wrappers, recipes, contained item definitions, or other spawning code. Installing, packaging, enabling, reviewing, or changing non-loot behavior does not trigger it.
 - If that workspace instruction file is missing, continue with this skill and inspect the relevant mod's current loot path before changing code.
 
 ## Post-Change Review Gate
@@ -70,9 +72,9 @@ When CJS needs local fixes or quality-of-life tweaks for an existing third-party
 
 When enabling, disabling, adding, or removing mods from a loadout, update all active load points unless the user explicitly narrows the scope:
 
-- Save-specific lists: `/media/cjstorrs/windows/Users/cjsto/Zomboid/Saves/*/*/mods.txt`. Add or remove `mod = \ModId,` entries inside the `mods {}` block.
-- Main game/default list: `/media/cjstorrs/windows/Users/cjsto/Zomboid/mods/default.txt`. Keep the same `mod = \ModId,` block format.
-- Saved preset list: `/media/cjstorrs/windows/Users/cjsto/Zomboid/Lua/pz_modlist_settings.cfg`. Update the named preset line such as `b42-4:` with `\ModId;` entries.
+- Save-specific lists: `/home/cjstorrs/games/Project Zomboid Linux 42.20.0/user-data/Zomboid/Saves/*/*/mods.txt`. Add or remove `mod = \ModId,` entries inside the `mods {}` block.
+- Main game/default list: `/home/cjstorrs/games/Project Zomboid Linux 42.20.0/user-data/Zomboid/mods/default.txt`. Keep the same `mod = \ModId,` block format.
+- Saved preset list: `/home/cjstorrs/games/Project Zomboid Linux 42.20.0/user-data/Zomboid/Lua/pz_modlist_settings.cfg`. Update the named preset line such as `b42-4:` with `\ModId;` entries.
 
 Rules:
 
@@ -85,7 +87,7 @@ Rules:
 
 ## Project-Backed Live Links
 
-Project-backed mods in this workspace are installed into `/media/cjstorrs/windows/Users/cjsto/Zomboid/mods` as symlinks back to `~/projects/game-mods/zomboid/<modName>`. The live symlink name should match the project folder casing exactly.
+Project-backed mods in this workspace are installed into `/home/cjstorrs/games/Project Zomboid Linux 42.20.0/user-data/Zomboid/mods` as symlinks back to `~/projects/game-mods/zomboid/<modName>`. The live symlink name should match the project folder casing exactly.
 
 Do not replace a project-backed live symlink with a copied folder. If a real live folder has a matching project folder, treat it as stale live drift and replace it with a symlink after verifying the match by folder name or `mod.info` id.
 
@@ -99,7 +101,7 @@ Use `~/projects/game-mods/link-zomboid-project-mods.sh` for broad live reconcili
 
 When importing an existing live CJS Zomboid mod into the game-mods project:
 
-- Use source `/media/cjstorrs/windows/Users/cjsto/Zomboid/mods` unless the user gives another Zomboid mods path.
+- Use source `/home/cjstorrs/games/Project Zomboid Linux 42.20.0/user-data/Zomboid/mods` unless the user gives another Zomboid mods path.
 - Use destination `~/projects/game-mods/zomboid`.
 - Treat only top-level directories matching `cjs*` as mods; do not import files such as `cjs-other-changes.md`.
 - Preserve mod files faithfully, but keep project git repositories separate from live mod folders.
@@ -109,9 +111,9 @@ When linking one project-backed mod into the live Zomboid mods folder:
 
 - After making changes to a project-backed mod, run the link script before finishing. Do not ask the user. Just do it. We can always roll back from the project git repo.
 - Prefer `DRY_RUN=1 ~/projects/game-mods/zomboid/link-project-mod.sh <modFolder>`, then `~/projects/game-mods/zomboid/link-project-mod.sh <modFolder>`; this replaces any stale live copy with a symlink back to the project folder using the project folder's casing.
-- If using the lower-level link script directly, set `SOURCE_ROOT=~/projects/game-mods/zomboid`, `DEST_ROOT=/media/cjstorrs/windows/Users/cjsto/Zomboid/mods`, and `MOD_NAME=<modFolder>`.
+- If using the lower-level link script directly, set `SOURCE_ROOT=~/projects/game-mods/zomboid`, `DEST_ROOT=/home/cjstorrs/games/Project Zomboid Linux 42.20.0/user-data/Zomboid/mods`, and `MOD_NAME=<modFolder>`.
 - Use targeted one-mod links for single mods; do not link every project-only mod into the live folder unless explicitly asked.
-- After linking, verify the live mod is a symlink to the project folder: `find /media/cjstorrs/windows/Users/cjsto/Zomboid/mods -maxdepth 1 -type l -name '<modFolder>' -printf '%p -> %l\n'`.
+- After linking, verify the live mod is a symlink to the project folder: `find /home/cjstorrs/games/Project Zomboid Linux 42.20.0/user-data/Zomboid/mods -maxdepth 1 -type l -name '<modFolder>' -printf '%p -> %l\n'`.
 - After validation and live linking, commit the project mod repo before finishing unless the user explicitly asked not to commit. Stage only the files changed for the task, do not include unrelated pre-existing work, then push the commit.
 
 ## Forking Existing Mods
@@ -125,32 +127,32 @@ When making an upstream mod into a CJS-owned mod:
 - Note compatibility tradeoffs: changing a perk ID or item module can reset existing save XP/books for that fork.
 - Preserve the source version folder casing, but ensure empty required folders are real. Add `.gitkeep` to empty `Common/` or `common/` before installing because empty directories are not tracked by git.
 
-## Build 42 Layout
+## Build 42.20 Layout
 
-For a new B42 CJS mod, create this minimum structure:
+For a new B42.20 CJS mod, create this minimum structure:
 
 ```text
 modFolder/
-├── 42/
+├── 42.20/
 │   ├── mod.info
 │   ├── poster.png
 │   └── media/
 │       └── lua/
 │           └── client|shared|server/
-└── Common/
+└── common/
 ```
 
 Rules:
 
-- Always include both `42/` and `Common/` for new CJS mods in this workspace, even if `Common/` is empty.
-- Empty directories are not tracked by git. Put `Common/.gitkeep` in an otherwise empty `Common/`.
-- Match existing casing when editing an existing mod. For new CJS mods here, use uppercase `Common/` unless the user requests lowercase or a copied upstream mod already uses `common/`.
-- Put B42-only Lua under `42/media/lua/client`, `42/media/lua/shared`, or `42/media/lua/server` according to behavior.
-- Put shared assets/scripts used by multiple versions under `Common/media/...` only when there is actual shared content.
+- Always include both `42.20/` and lowercase `common/` for new CJS mods in this workspace, even if `common/` is empty.
+- Empty directories are not tracked by git. Put `common/.gitkeep` in an otherwise empty `common/`.
+- On native Linux, B42.20 resolves the shared version folder as lowercase `common/`; functional content under uppercase `Common/` is ignored on case-sensitive filesystems. Preserve existing casing only after verifying that it is safe or that the folder has no functional shared content. A direct Workshop copy may receive path-only `Common/` to `common/` normalization while its file bytes remain unchanged.
+- Put B42.20-only Lua under `42.20/media/lua/client`, `42.20/media/lua/shared`, or `42.20/media/lua/server` according to behavior.
+- Put shared assets/scripts used by multiple versions under `common/media/...` only when there is actual shared content.
 
 ## mod.info
 
-For new CJS mods, write `42/mod.info` with at least:
+For new CJS mods, write `42.20/mod.info` with at least:
 
 ```ini
 name=CJS Example Name
@@ -169,9 +171,9 @@ Guidelines:
 
 ## Lua Placement
 
-- Client-only UI/camera/input/render behavior belongs in `42/media/lua/client/`.
-- Shared definitions, sandbox option translations, or code loaded by both sides belong in `42/media/lua/shared/` or `Common/media/lua/shared/`.
-- Server/gameplay authority code belongs in `42/media/lua/server/`.
+- Client-only UI/camera/input/render behavior belongs in `42.20/media/lua/client/`.
+- Shared definitions, sandbox option translations, or code loaded by both sides belong in `42.20/media/lua/shared/` or `common/media/lua/shared/`.
+- Server/gameplay authority code belongs in `42.20/media/lua/server/`.
 - Use existing PZ Lua patterns: `Events.OnGameStart`, `Events.OnTick`, `Events.OnCreatePlayer`, and `getCore()` where appropriate.
 - When touching Java internals, first search local mods for existing patterns using `rg "getClassField|getClassFieldVal|Reflection.getField"`. Use reflection cautiously and print one clear `[modId]` warning on failure.
 
@@ -184,16 +186,17 @@ For performance-sensitive mods:
 - Prefer game events such as `Events.OnClothingUpdated` over monkey-patching timed actions. Only patch vanilla methods when there is no stable event, and keep the patch minimal.
 - Avoid repeated `getScriptItem():DoParam(...)` mutations at runtime; they mutate script definitions and can be expensive/global. Prefer item setters when available, with cached base values.
 - For repeated recalculation, store base values in namespaced `modData` keys and skip work when a player/item signature is unchanged.
+- Do not put ephemeral UI or random-session state in per-item `modData` on abundant items that players commonly hold in large counts, such as ripped sheets, fabric strips, or ammunition. Even small tables multiply save, comparison, and inventory-parsing work across every item. Keep that state on the open UI/controller keyed by item identity, and persist it only when gameplay genuinely requires it to survive closing the UI or reloading the save.
 - At client/server command boundaries, validate malformed `args` narrowly and namespace command modules to the mod id.
 
 ## Discovery Debugging
 
 If a mod is not picked up by Project Zomboid:
 
-- Confirm the folder is a direct child of `Zomboid/mods`.
-- Confirm `42/mod.info` exists and has `name=`, `id=`, and a valid `poster=`.
-- Confirm `42/` and `Common/` both exist for new CJS/B42 mods.
-- Confirm there is no accidental extra nesting such as `modFolder/Contents/mods/modFolder/42/mod.info`.
+- Confirm the folder is a direct child of the B42.20 live mods root.
+- Confirm `42.20/mod.info` exists and has `name=`, `id=`, and a valid `poster=`.
+- Confirm `42.20/` and lowercase `common/` both exist for new CJS/B42.20 mods.
+- Confirm there is no accidental extra nesting such as `modFolder/Contents/mods/modFolder/42.20/mod.info`.
 - Confirm the mod folder and `id=` do not collide with another installed mod.
 - If a directory must be present but empty, add `.gitkeep` or another harmless tracked placeholder.
 
@@ -203,8 +206,8 @@ Before finishing:
 
 - Run `lua5.1 -e "assert(loadfile('path/to/file.lua'))"` when Lua syntax can be checked locally.
 - For batches, only compile Lua with `loadfile`; do not execute files outside Project Zomboid because game globals such as `Events`, `Perks`, and `SkillBook` will be absent.
-- Run `find modFolder -maxdepth 4 -type f -o -type d | sort` and verify `42/` plus `Common/` are present.
-- For project-backed live installs, verify the live entry is a direct child symlink under `Zomboid/mods` pointing back to `~/projects/game-mods/zomboid/<modName>`, has the project folder's exact casing, resolves to the expected versioned `mod.info`, and has valid poster/icon paths.
+- Run `find modFolder -maxdepth 4 -type f -o -type d | sort` and verify `42.20/` plus lowercase `common/` are present.
+- For project-backed live installs, verify the live entry is a direct child symlink under the B42.20 live mods root pointing back to `~/projects/game-mods/zomboid/<modName>`, has the project folder's exact casing, resolves to the versioned `mod.info` selected by B42.20, and has valid poster/icon paths. Require `42.20/mod.info` for new or B42.20-specific CJS payloads; allow a verified generic `42/mod.info` fallback from a compatible upstream mod.
 - Run the Post-Change Review Gate for any code, script, asset-reference, packaging, sandbox, mod-list, or live-install change.
 - Commit the task changes after the live link or direct Workshop refresh succeeds, then push the committed branch. If unrelated changes are present, leave them unstaged and call them out; if only task changes remain, the project mod repo should be clean.
 - Tell the user what still requires in-game validation; most PZ Lua behavior cannot be fully proven outside the game.
@@ -212,5 +215,5 @@ Before finishing:
 ## Instruction Maintenance
 
 - If the work reveals a new recurring Project Zomboid problem, compatibility pitfall, validation pattern, or durable fix that future sessions should remember, update the relevant workspace or skill instructions while the context is fresh.
-- Keep durable generic guidance in `b42.19-codex-instructions.md`; do not recreate one-off current-state notes unless the user explicitly asks.
+- Keep durable generic guidance in `b42.20-codex-instructions.md`; do not recreate one-off current-state notes unless the user explicitly asks.
 - Keep instruction updates concise, evidence-backed, and separate from unrelated refactors or historical cleanup.

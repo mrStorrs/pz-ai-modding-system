@@ -1,6 +1,8 @@
 # Easy Distributions Loot
 
-Apply this instruction when adding loot to Project Zomboid mods in this workspace or fixing loot in existing mods.
+Apply this instruction only when modifying an item's loot distribution in a Project Zomboid mod, such as adding or removing that item from loot tables or changing how often it appears there.
+
+Do not apply it merely because a mod contains loot-related items, capsules, packs, boxes, wrappers, recipes, contained item definitions, or other spawning code. Installing, packaging, enabling, reviewing, or changing non-loot behavior does not trigger this instruction.
 
 ## Core Rule
 
@@ -13,7 +15,7 @@ EasyDistro is a reference-item copier. It is not a general replacement for every
 ## Setup
 
 - Require the dependency in the mod's `mod.info` with `require=\NepEasyDistro`.
-- Put gameplay loot Lua under the mod's B42 server Lua path, usually `42/media/lua/server/Items/`.
+- Put gameplay loot Lua under the mod's B42.20 server Lua path, usually `42.20/media/lua/server/Items/`.
 - Load the API with:
 
 ```lua
@@ -59,7 +61,7 @@ It does not scan:
 Before choosing a reference item, verify that it appears in a table EasyDistro scans:
 
 ```bash
-rg -n '"ReferenceItem"' "/home/cjstorrs/games/Project Zomboid/media/lua/server/Items/ProceduralDistributions.lua" "/home/cjstorrs/games/Project Zomboid/media/lua/server/Vehicles/VehicleDistributions.lua"
+rg -n '"ReferenceItem"' "/home/cjstorrs/games/Project Zomboid Linux 42.20.0/game/projectzomboid/media/lua/server/Items/ProceduralDistributions.lua" "/home/cjstorrs/games/Project Zomboid Linux 42.20.0/game/projectzomboid/media/lua/server/Vehicles/VehicleDistributions.lua"
 ```
 
 ## Capsule Or Wrapper Loot
@@ -109,5 +111,5 @@ After loot edits:
 - Run `lua5.1 -e "assert(loadfile('path/to/file.lua'))"` for changed Lua files.
 - Run `jq empty` for changed JSON translation files.
 - Use `rg` to confirm removed direct loot paths are actually gone.
-- Check `~/Zomboid/console.txt` after an in-game startup for EasyDistro output and `unknown SandboxOption` errors.
+- Check `/home/cjstorrs/games/Project Zomboid Linux 42.20.0/user-data/Zomboid/console.txt` after an in-game startup for EasyDistro output and `unknown SandboxOption` errors.
 - If a project mod was copied into the live Zomboid mods folder, verify the live copy too.

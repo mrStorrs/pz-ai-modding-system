@@ -15,7 +15,7 @@ catalog or describe the contained workspace items.
   directories unless explicitly requested.
 - `.codex/instructions/` contains focused supplemental instructions that a skill
   may require for a narrower task.
-- `b42.19-codex-instructions.md` is a compatibility and migration reference that
+- `b42.20-codex-instructions.md` is the active compatibility and migration reference that
   Codex reads before matching migration, compatibility, install, translation,
   asset, native-patch, or log-error work.
 - `.tools/` contains local helper scripts used by the AI workflow for inspection,
@@ -32,6 +32,8 @@ behavior to a domain-specific workflow:
   compatibility fixes, and save-compatible repairs.
 - `zomboid-review`: post-change review for code, packaging, live-install,
   asset-reference, script, sandbox, and related changes.
+- `zomboid-revive`: guarded inspection, backup, revival, and full healing of a
+  supported B42.20 local single-player save.
 
 When a task matches one of these skills, Codex should read the full skill file
 before acting. If a task touches an area with supplemental instructions, Codex

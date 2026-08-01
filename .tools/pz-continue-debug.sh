@@ -4,11 +4,12 @@ set -euo pipefail
 SCRIPT_NAME="$(basename "$0")"
 PROJECT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 
-GAME_DIR="${PZ_GAME_DIR:-/home/cjstorrs/games/Project Zomboid Linux 42.19.0/game}"
+GAME_DIR="${PZ_GAME_DIR:-/home/cjstorrs/games/Project Zomboid Linux 42.20.0/game}"
 GAME_SCRIPT="${PZ_GAME_SCRIPT:-${GAME_DIR}/projectzomboid.sh}"
+USER_DATA_DIR="${PZ_USER_DATA_DIR:-/home/cjstorrs/games/Project Zomboid Linux 42.20.0/user-data/Zomboid}"
 CACHE_PARENT="${PZ_CACHE_PARENT:-${PROJECT_ROOT}/.runtime/zomboid-cache-parent}"
 DIAGNOSTICS_ROOT="${PZ_DIAGNOSTICS_ROOT:-${PROJECT_ROOT}/.runtime/pz-diagnostics}"
-LAUNCHER_LOG="${PZ_LAUNCHER_LOG:-${HOME}/Zomboid/projectzomboid.sh.log}"
+LAUNCHER_LOG="${PZ_LAUNCHER_LOG:-${USER_DATA_DIR}/projectzomboid.sh.log}"
 WINDOW_PATTERN="${PZ_WINDOW_PATTERN:-Project Zomboid}"
 
 DEBUG_ARG="${PZ_DEBUG_ARG:--debug}"
@@ -33,11 +34,12 @@ usage() {
   cat <<USAGE
 Usage: ${SCRIPT_NAME} [--no-click] [--click-only] [--help] [extra-game-args...]
 
-Starts Project Zomboid B42.19 in debug mode, clicks Continue, waits for the
+Starts Project Zomboid B42.20 in debug mode, clicks Continue, waits for the
 save to finish loading, then clicks the "Click to Start" prompt.
 
 Environment overrides:
   PZ_GAME_DIR                 ${GAME_DIR}
+  PZ_USER_DATA_DIR            ${USER_DATA_DIR}
   PZ_CACHE_PARENT             ${CACHE_PARENT}
   PZ_DIAGNOSTICS_ROOT         ${DIAGNOSTICS_ROOT}
   PZ_DIAGNOSTICS_ON_LOAD_TIMEOUT ${DIAGNOSTICS_ON_LOAD_TIMEOUT}
@@ -93,7 +95,7 @@ find_java_pid() {
 }
 
 latest_debug_log() {
-  find /media/cjstorrs/windows/Users/cjsto/Zomboid/Logs -maxdepth 1 -type f -name '*_DebugLog.txt' -printf '%T@ %p\n' 2>/dev/null \
+  find "${USER_DATA_DIR}/Logs" -maxdepth 1 -type f -name '*_DebugLog.txt' -printf '%T@ %p\n' 2>/dev/null \
     | sort -nr \
     | awk 'NR == 1 { $1=""; sub(/^ /, ""); print }'
 }

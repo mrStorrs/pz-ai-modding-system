@@ -1,0 +1,1670 @@
+cell_x	cell_y	cell	mod_id	live_folder	map_folder	source_layout	source_file	owner_count	entry_count	status
+0	0	0_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/0_0.lotheader	1	1	CLEAR
+0	1	0_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/0_1.lotheader	1	1	CLEAR
+0	2	0_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/0_2.lotheader	1	1	CLEAR
+0	3	0_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/0_3.lotheader	1	1	CLEAR
+0	4	0_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/0_4.lotheader	1	1	CLEAR
+0	5	0_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/0_5.lotheader	1	1	CLEAR
+0	6	0_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/0_6.lotheader	1	1	CLEAR
+0	7	0_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/0_7.lotheader	1	1	CLEAR
+0	8	0_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/0_8.lotheader	1	1	CLEAR
+0	9	0_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/0_9.lotheader	1	1	CLEAR
+0	10	0_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/0_10.lotheader	1	1	CLEAR
+0	11	0_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/0_11.lotheader	1	1	CLEAR
+0	12	0_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/0_12.lotheader	1	1	CLEAR
+0	13	0_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/0_13.lotheader	1	1	CLEAR
+0	14	0_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/0_14.lotheader	1	1	CLEAR
+0	15	0_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/0_15.lotheader	1	1	CLEAR
+0	16	0_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/0_16.lotheader	1	1	CLEAR
+0	17	0_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/0_17.lotheader	1	1	CLEAR
+0	18	0_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/0_18.lotheader	1	1	CLEAR
+1	0	1_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/1_0.lotheader	1	1	CLEAR
+1	1	1_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/1_1.lotheader	1	1	CLEAR
+1	2	1_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/1_2.lotheader	1	1	CLEAR
+1	3	1_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/1_3.lotheader	1	1	CLEAR
+1	4	1_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/1_4.lotheader	1	1	CLEAR
+1	5	1_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/1_5.lotheader	1	1	CLEAR
+1	6	1_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/1_6.lotheader	1	1	CLEAR
+1	7	1_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/1_7.lotheader	1	1	CLEAR
+1	8	1_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/1_8.lotheader	1	1	CLEAR
+1	9	1_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/1_9.lotheader	1	1	CLEAR
+1	10	1_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/1_10.lotheader	1	1	CLEAR
+1	11	1_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/1_11.lotheader	1	1	CLEAR
+1	12	1_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/1_12.lotheader	1	1	CLEAR
+1	13	1_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/1_13.lotheader	1	1	CLEAR
+1	14	1_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/1_14.lotheader	1	1	CLEAR
+1	15	1_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/1_15.lotheader	1	1	CLEAR
+1	16	1_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/1_16.lotheader	1	1	CLEAR
+1	17	1_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/1_17.lotheader	1	1	CLEAR
+1	18	1_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/1_18.lotheader	1	1	CLEAR
+2	0	2_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/2_0.lotheader	1	1	CLEAR
+2	1	2_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/2_1.lotheader	1	1	CLEAR
+2	2	2_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/2_2.lotheader	1	1	CLEAR
+2	3	2_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/2_3.lotheader	1	1	CLEAR
+2	4	2_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/2_4.lotheader	1	1	CLEAR
+2	5	2_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/2_5.lotheader	1	1	CLEAR
+2	6	2_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/2_6.lotheader	1	1	CLEAR
+2	7	2_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/2_7.lotheader	1	1	CLEAR
+2	8	2_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/2_8.lotheader	1	1	CLEAR
+2	9	2_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/2_9.lotheader	1	1	CLEAR
+2	10	2_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/2_10.lotheader	1	1	CLEAR
+2	11	2_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/2_11.lotheader	1	1	CLEAR
+2	12	2_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/2_12.lotheader	1	1	CLEAR
+2	13	2_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/2_13.lotheader	1	1	CLEAR
+2	14	2_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/2_14.lotheader	1	1	CLEAR
+2	15	2_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/2_15.lotheader	1	1	CLEAR
+2	16	2_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/2_16.lotheader	1	1	CLEAR
+2	17	2_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/2_17.lotheader	1	1	CLEAR
+2	18	2_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/2_18.lotheader	1	1	CLEAR
+3	0	3_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/3_0.lotheader	1	1	CLEAR
+3	1	3_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/3_1.lotheader	1	1	CLEAR
+3	2	3_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/3_2.lotheader	1	1	CLEAR
+3	3	3_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/3_3.lotheader	1	1	CLEAR
+3	4	3_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/3_4.lotheader	1	1	CLEAR
+3	5	3_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/3_5.lotheader	1	1	CLEAR
+3	6	3_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/3_6.lotheader	1	1	CLEAR
+3	7	3_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/3_7.lotheader	1	1	CLEAR
+3	8	3_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/3_8.lotheader	1	1	CLEAR
+3	9	3_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/3_9.lotheader	1	1	CLEAR
+3	10	3_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/3_10.lotheader	1	1	CLEAR
+3	11	3_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/3_11.lotheader	1	1	CLEAR
+3	12	3_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/3_12.lotheader	1	1	CLEAR
+3	13	3_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/3_13.lotheader	1	1	CLEAR
+3	14	3_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/3_14.lotheader	1	1	CLEAR
+3	15	3_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/3_15.lotheader	1	1	CLEAR
+3	16	3_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/3_16.lotheader	1	1	CLEAR
+3	17	3_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/3_17.lotheader	1	1	CLEAR
+3	18	3_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/3_18.lotheader	1	1	CLEAR
+3	19	3_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/3_19.lotheader	1	1	CLEAR
+4	0	4_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/4_0.lotheader	1	1	CLEAR
+4	1	4_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/4_1.lotheader	1	1	CLEAR
+4	2	4_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/4_2.lotheader	1	1	CLEAR
+4	3	4_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/4_3.lotheader	1	1	CLEAR
+4	4	4_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/4_4.lotheader	1	1	CLEAR
+4	5	4_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/4_5.lotheader	1	1	CLEAR
+4	6	4_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/4_6.lotheader	1	1	CLEAR
+4	7	4_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/4_7.lotheader	1	1	CLEAR
+4	8	4_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/4_8.lotheader	1	1	CLEAR
+4	9	4_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/4_9.lotheader	1	1	CLEAR
+4	10	4_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/4_10.lotheader	1	1	CLEAR
+4	11	4_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/4_11.lotheader	1	1	CLEAR
+4	12	4_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/4_12.lotheader	1	1	CLEAR
+4	13	4_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/4_13.lotheader	1	1	CLEAR
+4	14	4_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/4_14.lotheader	1	1	CLEAR
+4	15	4_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/4_15.lotheader	1	1	CLEAR
+4	16	4_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/4_16.lotheader	1	1	CLEAR
+4	17	4_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/4_17.lotheader	1	1	CLEAR
+4	18	4_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/4_18.lotheader	1	1	CLEAR
+4	19	4_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/4_19.lotheader	1	1	CLEAR
+5	0	5_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_0.lotheader	1	1	CLEAR
+5	1	5_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_1.lotheader	1	1	CLEAR
+5	2	5_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_2.lotheader	1	1	CLEAR
+5	3	5_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_3.lotheader	1	1	CLEAR
+5	4	5_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_4.lotheader	1	1	CLEAR
+5	5	5_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_5.lotheader	1	1	CLEAR
+5	6	5_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_6.lotheader	1	1	CLEAR
+5	7	5_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_7.lotheader	1	1	CLEAR
+5	8	5_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_8.lotheader	1	1	CLEAR
+5	9	5_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_9.lotheader	1	1	CLEAR
+5	10	5_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_10.lotheader	1	1	CLEAR
+5	11	5_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_11.lotheader	1	1	CLEAR
+5	12	5_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_12.lotheader	1	1	CLEAR
+5	13	5_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_13.lotheader	1	1	CLEAR
+5	14	5_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_14.lotheader	1	1	CLEAR
+5	15	5_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_15.lotheader	1	1	CLEAR
+5	16	5_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_16.lotheader	1	1	CLEAR
+5	17	5_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_17.lotheader	1	1	CLEAR
+5	18	5_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_18.lotheader	1	1	CLEAR
+5	19	5_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_19.lotheader	1	1	CLEAR
+5	20	5_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_20.lotheader	1	1	CLEAR
+5	21	5_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/5_21.lotheader	1	1	CLEAR
+6	0	6_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_0.lotheader	1	1	CLEAR
+6	1	6_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_1.lotheader	1	1	CLEAR
+6	2	6_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_2.lotheader	1	1	CLEAR
+6	3	6_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_3.lotheader	1	1	CLEAR
+6	4	6_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_4.lotheader	1	1	CLEAR
+6	5	6_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_5.lotheader	1	1	CLEAR
+6	6	6_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_6.lotheader	1	1	CLEAR
+6	7	6_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_7.lotheader	1	1	CLEAR
+6	8	6_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_8.lotheader	1	1	CLEAR
+6	9	6_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_9.lotheader	1	1	CLEAR
+6	10	6_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_10.lotheader	1	1	CLEAR
+6	11	6_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_11.lotheader	1	1	CLEAR
+6	12	6_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_12.lotheader	1	1	CLEAR
+6	13	6_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_13.lotheader	1	1	CLEAR
+6	14	6_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_14.lotheader	1	1	CLEAR
+6	15	6_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_15.lotheader	1	1	CLEAR
+6	16	6_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_16.lotheader	1	1	CLEAR
+6	17	6_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_17.lotheader	1	1	CLEAR
+6	18	6_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_18.lotheader	1	1	CLEAR
+6	19	6_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_19.lotheader	1	1	CLEAR
+6	20	6_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_20.lotheader	1	1	CLEAR
+6	21	6_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/6_21.lotheader	1	1	CLEAR
+7	0	7_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_0.lotheader	1	1	CLEAR
+7	1	7_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_1.lotheader	1	1	CLEAR
+7	2	7_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_2.lotheader	1	1	CLEAR
+7	3	7_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_3.lotheader	1	1	CLEAR
+7	4	7_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_4.lotheader	1	1	CLEAR
+7	5	7_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_5.lotheader	1	1	CLEAR
+7	6	7_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_6.lotheader	1	1	CLEAR
+7	7	7_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_7.lotheader	1	1	CLEAR
+7	8	7_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_8.lotheader	1	1	CLEAR
+7	9	7_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_9.lotheader	1	1	CLEAR
+7	10	7_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_10.lotheader	1	1	CLEAR
+7	11	7_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_11.lotheader	1	1	CLEAR
+7	12	7_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_12.lotheader	1	1	CLEAR
+7	13	7_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_13.lotheader	1	1	CLEAR
+7	14	7_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_14.lotheader	1	1	CLEAR
+7	15	7_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_15.lotheader	1	1	CLEAR
+7	16	7_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_16.lotheader	1	1	CLEAR
+7	17	7_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_17.lotheader	1	1	CLEAR
+7	18	7_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_18.lotheader	1	1	CLEAR
+7	19	7_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_19.lotheader	1	1	CLEAR
+7	20	7_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_20.lotheader	1	1	CLEAR
+7	21	7_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/7_21.lotheader	1	1	CLEAR
+8	0	8_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_0.lotheader	1	1	CLEAR
+8	1	8_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_1.lotheader	1	1	CLEAR
+8	2	8_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_2.lotheader	1	1	CLEAR
+8	3	8_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_3.lotheader	1	1	CLEAR
+8	4	8_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_4.lotheader	1	1	CLEAR
+8	5	8_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_5.lotheader	1	1	CLEAR
+8	6	8_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_6.lotheader	1	1	CLEAR
+8	7	8_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_7.lotheader	1	1	CLEAR
+8	8	8_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_8.lotheader	1	1	CLEAR
+8	9	8_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_9.lotheader	1	1	CLEAR
+8	10	8_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_10.lotheader	1	1	CLEAR
+8	11	8_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_11.lotheader	1	1	CLEAR
+8	12	8_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_12.lotheader	1	1	CLEAR
+8	13	8_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_13.lotheader	1	1	CLEAR
+8	14	8_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_14.lotheader	1	1	CLEAR
+8	15	8_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_15.lotheader	1	1	CLEAR
+8	16	8_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_16.lotheader	1	1	CLEAR
+8	17	8_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_17.lotheader	1	1	CLEAR
+8	18	8_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_18.lotheader	1	1	CLEAR
+8	19	8_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_19.lotheader	1	1	CLEAR
+8	20	8_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_20.lotheader	1	1	CLEAR
+8	21	8_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/8_21.lotheader	1	1	CLEAR
+9	0	9_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_0.lotheader	1	1	CLEAR
+9	1	9_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_1.lotheader	1	1	CLEAR
+9	2	9_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_2.lotheader	1	1	CLEAR
+9	3	9_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_3.lotheader	1	1	CLEAR
+9	4	9_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_4.lotheader	1	1	CLEAR
+9	5	9_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_5.lotheader	1	1	CLEAR
+9	6	9_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_6.lotheader	1	1	CLEAR
+9	7	9_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_7.lotheader	1	1	CLEAR
+9	8	9_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_8.lotheader	1	1	CLEAR
+9	9	9_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_9.lotheader	1	1	CLEAR
+9	10	9_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_10.lotheader	1	1	CLEAR
+9	11	9_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_11.lotheader	1	1	CLEAR
+9	12	9_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_12.lotheader	1	1	CLEAR
+9	13	9_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_13.lotheader	1	1	CLEAR
+9	14	9_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_14.lotheader	1	1	CLEAR
+9	15	9_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_15.lotheader	1	1	CLEAR
+9	16	9_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_16.lotheader	1	1	CLEAR
+9	17	9_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_17.lotheader	1	1	CLEAR
+9	18	9_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_18.lotheader	1	1	CLEAR
+9	19	9_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_19.lotheader	1	1	CLEAR
+9	20	9_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_20.lotheader	1	1	CLEAR
+9	21	9_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/9_21.lotheader	1	1	CLEAR
+10	0	10_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_0.lotheader	1	1	CLEAR
+10	1	10_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_1.lotheader	1	1	CLEAR
+10	2	10_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_2.lotheader	1	1	CLEAR
+10	3	10_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_3.lotheader	1	1	CLEAR
+10	4	10_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_4.lotheader	1	1	CLEAR
+10	5	10_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_5.lotheader	1	1	CLEAR
+10	6	10_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_6.lotheader	1	1	CLEAR
+10	7	10_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_7.lotheader	1	1	CLEAR
+10	8	10_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_8.lotheader	1	1	CLEAR
+10	9	10_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_9.lotheader	1	1	CLEAR
+10	10	10_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_10.lotheader	1	1	CLEAR
+10	11	10_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_11.lotheader	1	1	CLEAR
+10	12	10_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_12.lotheader	1	1	CLEAR
+10	13	10_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_13.lotheader	1	1	CLEAR
+10	14	10_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_14.lotheader	1	1	CLEAR
+10	15	10_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_15.lotheader	1	1	CLEAR
+10	16	10_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_16.lotheader	1	1	CLEAR
+10	17	10_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_17.lotheader	1	1	CLEAR
+10	18	10_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_18.lotheader	1	1	CLEAR
+10	19	10_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_19.lotheader	1	1	CLEAR
+10	20	10_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_20.lotheader	1	1	CLEAR
+10	21	10_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/10_21.lotheader	1	1	CLEAR
+11	0	11_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_0.lotheader	1	1	CLEAR
+11	1	11_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_1.lotheader	1	1	CLEAR
+11	2	11_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_2.lotheader	1	1	CLEAR
+11	3	11_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_3.lotheader	1	1	CLEAR
+11	4	11_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_4.lotheader	1	1	CLEAR
+11	5	11_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_5.lotheader	1	1	CLEAR
+11	6	11_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_6.lotheader	1	1	CLEAR
+11	7	11_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_7.lotheader	1	1	CLEAR
+11	8	11_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_8.lotheader	1	1	CLEAR
+11	9	11_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_9.lotheader	1	1	CLEAR
+11	10	11_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_10.lotheader	1	1	CLEAR
+11	11	11_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_11.lotheader	1	1	CLEAR
+11	12	11_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_12.lotheader	1	1	CLEAR
+11	13	11_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_13.lotheader	1	1	CLEAR
+11	14	11_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_14.lotheader	1	1	CLEAR
+11	15	11_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_15.lotheader	1	1	CLEAR
+11	16	11_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_16.lotheader	1	1	CLEAR
+11	17	11_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_17.lotheader	1	1	CLEAR
+11	18	11_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_18.lotheader	1	1	CLEAR
+11	19	11_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_19.lotheader	1	1	CLEAR
+11	20	11_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_20.lotheader	1	1	CLEAR
+11	21	11_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/11_21.lotheader	1	1	CLEAR
+11	31	11_31	dawn_town	DawnTown	DawnTown	common	common/media/maps/DawnTown/11_31.lotheader	1	1	CLEAR
+11	32	11_32	dawn_town	DawnTown	DawnTown	common	common/media/maps/DawnTown/11_32.lotheader	1	1	CLEAR
+12	0	12_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_0.lotheader	1	1	CLEAR
+12	1	12_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_1.lotheader	1	1	CLEAR
+12	2	12_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_2.lotheader	1	1	CLEAR
+12	3	12_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_3.lotheader	1	1	CLEAR
+12	4	12_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_4.lotheader	1	1	CLEAR
+12	5	12_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_5.lotheader	1	1	CLEAR
+12	6	12_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_6.lotheader	1	1	CLEAR
+12	7	12_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_7.lotheader	1	1	CLEAR
+12	8	12_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_8.lotheader	1	1	CLEAR
+12	9	12_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_9.lotheader	1	1	CLEAR
+12	10	12_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_10.lotheader	1	1	CLEAR
+12	11	12_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_11.lotheader	1	1	CLEAR
+12	12	12_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_12.lotheader	1	1	CLEAR
+12	13	12_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_13.lotheader	1	1	CLEAR
+12	14	12_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_14.lotheader	1	1	CLEAR
+12	15	12_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_15.lotheader	1	1	CLEAR
+12	16	12_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_16.lotheader	1	1	CLEAR
+12	17	12_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_17.lotheader	1	1	CLEAR
+12	18	12_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_18.lotheader	1	1	CLEAR
+12	19	12_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_19.lotheader	1	1	CLEAR
+12	20	12_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_20.lotheader	1	1	CLEAR
+12	21	12_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/12_21.lotheader	1	1	CLEAR
+12	31	12_31	dawn_town	DawnTown	DawnTown	common	common/media/maps/DawnTown/12_31.lotheader	1	1	CLEAR
+12	32	12_32	dawn_town	DawnTown	DawnTown	common	common/media/maps/DawnTown/12_32.lotheader	1	1	CLEAR
+13	0	13_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_0.lotheader	1	1	CLEAR
+13	1	13_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_1.lotheader	1	1	CLEAR
+13	2	13_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_2.lotheader	1	1	CLEAR
+13	3	13_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_3.lotheader	1	1	CLEAR
+13	4	13_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_4.lotheader	1	1	CLEAR
+13	5	13_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_5.lotheader	1	1	CLEAR
+13	6	13_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_6.lotheader	1	1	CLEAR
+13	7	13_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_7.lotheader	1	1	CLEAR
+13	8	13_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_8.lotheader	1	1	CLEAR
+13	9	13_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_9.lotheader	1	1	CLEAR
+13	10	13_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_10.lotheader	1	1	CLEAR
+13	11	13_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_11.lotheader	1	1	CLEAR
+13	12	13_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_12.lotheader	1	1	CLEAR
+13	13	13_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_13.lotheader	1	1	CLEAR
+13	14	13_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_14.lotheader	1	1	CLEAR
+13	15	13_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_15.lotheader	1	1	CLEAR
+13	16	13_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_16.lotheader	1	1	CLEAR
+13	17	13_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_17.lotheader	1	1	CLEAR
+13	18	13_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_18.lotheader	1	1	CLEAR
+13	19	13_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_19.lotheader	1	1	CLEAR
+13	20	13_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_20.lotheader	1	1	CLEAR
+13	21	13_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/13_21.lotheader	1	1	CLEAR
+14	0	14_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_0.lotheader	1	1	CLEAR
+14	1	14_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_1.lotheader	1	1	CLEAR
+14	2	14_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_2.lotheader	1	1	CLEAR
+14	3	14_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_3.lotheader	1	1	CLEAR
+14	4	14_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_4.lotheader	1	1	CLEAR
+14	5	14_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_5.lotheader	1	1	CLEAR
+14	6	14_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_6.lotheader	1	1	CLEAR
+14	7	14_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_7.lotheader	1	1	CLEAR
+14	8	14_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_8.lotheader	1	1	CLEAR
+14	9	14_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_9.lotheader	1	1	CLEAR
+14	10	14_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_10.lotheader	1	1	CLEAR
+14	11	14_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_11.lotheader	1	1	CLEAR
+14	12	14_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_12.lotheader	1	1	CLEAR
+14	13	14_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_13.lotheader	1	1	CLEAR
+14	14	14_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_14.lotheader	1	1	CLEAR
+14	15	14_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_15.lotheader	1	1	CLEAR
+14	16	14_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_16.lotheader	1	1	CLEAR
+14	17	14_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_17.lotheader	1	1	CLEAR
+14	18	14_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_18.lotheader	1	1	CLEAR
+14	19	14_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_19.lotheader	1	1	CLEAR
+14	20	14_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_20.lotheader	1	1	CLEAR
+14	21	14_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/14_21.lotheader	1	1	CLEAR
+15	0	15_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_0.lotheader	1	1	CLEAR
+15	1	15_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_1.lotheader	1	1	CLEAR
+15	2	15_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_2.lotheader	1	1	CLEAR
+15	3	15_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_3.lotheader	1	1	CLEAR
+15	4	15_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_4.lotheader	1	1	CLEAR
+15	5	15_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_5.lotheader	1	1	CLEAR
+15	6	15_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_6.lotheader	1	1	CLEAR
+15	7	15_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_7.lotheader	1	1	CLEAR
+15	8	15_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_8.lotheader	1	1	CLEAR
+15	9	15_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_9.lotheader	1	1	CLEAR
+15	10	15_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_10.lotheader	1	1	CLEAR
+15	11	15_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_11.lotheader	1	1	CLEAR
+15	12	15_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_12.lotheader	1	1	CLEAR
+15	13	15_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_13.lotheader	1	1	CLEAR
+15	14	15_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_14.lotheader	1	1	CLEAR
+15	15	15_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_15.lotheader	1	1	CLEAR
+15	16	15_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_16.lotheader	1	1	CLEAR
+15	17	15_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_17.lotheader	1	1	CLEAR
+15	18	15_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_18.lotheader	1	1	CLEAR
+15	19	15_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_19.lotheader	1	1	CLEAR
+15	20	15_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_20.lotheader	1	1	CLEAR
+15	21	15_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/15_21.lotheader	1	1	CLEAR
+16	0	16_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_0.lotheader	1	1	CLEAR
+16	1	16_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_1.lotheader	1	1	CLEAR
+16	2	16_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_2.lotheader	1	1	CLEAR
+16	3	16_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_3.lotheader	1	1	CLEAR
+16	4	16_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_4.lotheader	1	1	CLEAR
+16	5	16_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_5.lotheader	1	1	CLEAR
+16	6	16_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_6.lotheader	1	1	CLEAR
+16	7	16_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_7.lotheader	1	1	CLEAR
+16	8	16_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_8.lotheader	1	1	CLEAR
+16	9	16_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_9.lotheader	1	1	CLEAR
+16	10	16_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_10.lotheader	1	1	CLEAR
+16	11	16_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_11.lotheader	1	1	CLEAR
+16	12	16_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_12.lotheader	1	1	CLEAR
+16	13	16_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_13.lotheader	1	1	CLEAR
+16	14	16_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_14.lotheader	1	1	CLEAR
+16	15	16_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_15.lotheader	1	1	CLEAR
+16	16	16_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_16.lotheader	1	1	CLEAR
+16	17	16_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_17.lotheader	1	1	CLEAR
+16	18	16_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_18.lotheader	1	1	CLEAR
+16	19	16_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_19.lotheader	1	1	CLEAR
+16	20	16_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_20.lotheader	1	1	CLEAR
+16	21	16_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/16_21.lotheader	1	1	CLEAR
+16	33	16_33	HavenFall	HavenFall	HavenFall	common	common/media/maps/HavenFall/16_33.lotheader	1	1	CLEAR
+16	34	16_34	HavenFall	HavenFall	HavenFall	common	common/media/maps/HavenFall/16_34.lotheader	1	1	CLEAR
+16	35	16_35	HavenFall	HavenFall	HavenFall	common	common/media/maps/HavenFall/16_35.lotheader	1	1	CLEAR
+16	36	16_36	HavenFall	HavenFall	HavenFall	common	common/media/maps/HavenFall/16_36.lotheader	1	1	CLEAR
+16	59	16_59	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/16_59.lotheader	1	1	CLEAR
+16	60	16_60	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/16_60.lotheader	1	1	CLEAR
+16	61	16_61	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/16_61.lotheader	1	1	CLEAR
+16	62	16_62	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/16_62.lotheader	1	1	CLEAR
+16	63	16_63	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/16_63.lotheader	1	1	CLEAR
+16	64	16_64	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/16_64.lotheader	1	1	CLEAR
+16	65	16_65	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/16_65.lotheader	1	1	CLEAR
+16	66	16_66	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/16_66.lotheader	1	1	CLEAR
+16	67	16_67	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/16_67.lotheader	1	1	CLEAR
+16	68	16_68	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/16_68.lotheader	1	1	CLEAR
+16	69	16_69	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/16_69.lotheader	1	1	CLEAR
+17	0	17_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_0.lotheader	1	1	CLEAR
+17	1	17_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_1.lotheader	1	1	CLEAR
+17	2	17_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_2.lotheader	1	1	CLEAR
+17	3	17_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_3.lotheader	1	1	CLEAR
+17	4	17_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_4.lotheader	1	1	CLEAR
+17	5	17_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_5.lotheader	1	1	CLEAR
+17	6	17_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_6.lotheader	1	1	CLEAR
+17	7	17_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_7.lotheader	1	1	CLEAR
+17	8	17_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_8.lotheader	1	1	CLEAR
+17	9	17_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_9.lotheader	1	1	CLEAR
+17	10	17_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_10.lotheader	1	1	CLEAR
+17	11	17_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_11.lotheader	1	1	CLEAR
+17	12	17_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_12.lotheader	1	1	CLEAR
+17	13	17_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_13.lotheader	1	1	CLEAR
+17	14	17_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_14.lotheader	1	1	CLEAR
+17	15	17_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_15.lotheader	1	1	CLEAR
+17	16	17_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_16.lotheader	1	1	CLEAR
+17	17	17_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_17.lotheader	1	1	CLEAR
+17	18	17_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_18.lotheader	1	1	CLEAR
+17	19	17_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_19.lotheader	1	1	CLEAR
+17	20	17_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/17_20.lotheader	1	1	CLEAR
+17	33	17_33	HavenFall	HavenFall	HavenFall	common	common/media/maps/HavenFall/17_33.lotheader	1	1	CLEAR
+17	34	17_34	HavenFall	HavenFall	HavenFall	common	common/media/maps/HavenFall/17_34.lotheader	1	1	CLEAR
+17	35	17_35	HavenFall	HavenFall	HavenFall	common	common/media/maps/HavenFall/17_35.lotheader	1	1	CLEAR
+17	36	17_36	HavenFall	HavenFall	HavenFall	common	common/media/maps/HavenFall/17_36.lotheader	1	1	CLEAR
+17	59	17_59	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/17_59.lotheader	1	1	CLEAR
+17	60	17_60	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/17_60.lotheader	1	1	CLEAR
+17	61	17_61	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/17_61.lotheader	1	1	CLEAR
+17	62	17_62	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/17_62.lotheader	1	1	CLEAR
+17	63	17_63	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/17_63.lotheader	1	1	CLEAR
+17	64	17_64	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/17_64.lotheader	1	1	CLEAR
+17	65	17_65	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/17_65.lotheader	1	1	CLEAR
+17	66	17_66	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/17_66.lotheader	1	1	CLEAR
+17	67	17_67	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/17_67.lotheader	1	1	CLEAR
+17	68	17_68	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/17_68.lotheader	1	1	CLEAR
+17	69	17_69	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/17_69.lotheader	1	1	CLEAR
+18	0	18_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_0.lotheader	1	1	CLEAR
+18	1	18_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_1.lotheader	1	1	CLEAR
+18	2	18_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_2.lotheader	1	1	CLEAR
+18	3	18_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_3.lotheader	1	1	CLEAR
+18	4	18_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_4.lotheader	1	1	CLEAR
+18	5	18_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_5.lotheader	1	1	CLEAR
+18	6	18_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_6.lotheader	1	1	CLEAR
+18	7	18_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_7.lotheader	1	1	CLEAR
+18	8	18_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_8.lotheader	1	1	CLEAR
+18	9	18_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_9.lotheader	1	1	CLEAR
+18	10	18_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_10.lotheader	1	1	CLEAR
+18	11	18_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_11.lotheader	1	1	CLEAR
+18	12	18_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_12.lotheader	1	1	CLEAR
+18	13	18_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_13.lotheader	1	1	CLEAR
+18	14	18_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_14.lotheader	1	1	CLEAR
+18	15	18_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_15.lotheader	1	1	CLEAR
+18	16	18_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_16.lotheader	1	1	CLEAR
+18	17	18_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_17.lotheader	1	1	CLEAR
+18	18	18_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_18.lotheader	1	1	CLEAR
+18	19	18_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_19.lotheader	1	1	CLEAR
+18	20	18_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/18_20.lotheader	1	1	CLEAR
+18	33	18_33	HavenFall	HavenFall	HavenFall	common	common/media/maps/HavenFall/18_33.lotheader	1	1	CLEAR
+18	34	18_34	HavenFall	HavenFall	HavenFall	common	common/media/maps/HavenFall/18_34.lotheader	1	1	CLEAR
+18	35	18_35	HavenFall	HavenFall	HavenFall	common	common/media/maps/HavenFall/18_35.lotheader	1	1	CLEAR
+18	36	18_36	HavenFall	HavenFall	HavenFall	common	common/media/maps/HavenFall/18_36.lotheader	1	1	CLEAR
+18	59	18_59	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/18_59.lotheader	1	1	CLEAR
+18	60	18_60	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/18_60.lotheader	1	1	CLEAR
+18	61	18_61	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/18_61.lotheader	1	1	CLEAR
+18	62	18_62	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/18_62.lotheader	1	1	CLEAR
+18	63	18_63	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/18_63.lotheader	1	1	CLEAR
+18	64	18_64	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/18_64.lotheader	1	1	CLEAR
+18	65	18_65	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/18_65.lotheader	1	1	CLEAR
+18	66	18_66	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/18_66.lotheader	1	1	CLEAR
+18	67	18_67	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/18_67.lotheader	1	1	CLEAR
+18	68	18_68	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/18_68.lotheader	1	1	CLEAR
+18	69	18_69	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/18_69.lotheader	1	1	CLEAR
+19	0	19_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_0.lotheader	1	1	CLEAR
+19	1	19_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_1.lotheader	1	1	CLEAR
+19	2	19_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_2.lotheader	1	1	CLEAR
+19	3	19_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_3.lotheader	1	1	CLEAR
+19	4	19_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_4.lotheader	1	1	CLEAR
+19	5	19_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_5.lotheader	1	1	CLEAR
+19	6	19_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_6.lotheader	1	1	CLEAR
+19	7	19_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_7.lotheader	1	1	CLEAR
+19	8	19_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_8.lotheader	1	1	CLEAR
+19	9	19_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_9.lotheader	1	1	CLEAR
+19	10	19_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_10.lotheader	1	1	CLEAR
+19	11	19_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_11.lotheader	1	1	CLEAR
+19	12	19_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_12.lotheader	1	1	CLEAR
+19	13	19_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_13.lotheader	1	1	CLEAR
+19	14	19_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_14.lotheader	1	1	CLEAR
+19	15	19_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_15.lotheader	1	1	CLEAR
+19	16	19_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_16.lotheader	1	1	CLEAR
+19	17	19_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_17.lotheader	1	1	CLEAR
+19	18	19_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_18.lotheader	1	1	CLEAR
+19	19	19_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_19.lotheader	1	1	CLEAR
+19	20	19_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/19_20.lotheader	1	1	CLEAR
+19	33	19_33	HavenFall	HavenFall	HavenFall	common	common/media/maps/HavenFall/19_33.lotheader	1	1	CLEAR
+19	34	19_34	HavenFall	HavenFall	HavenFall	common	common/media/maps/HavenFall/19_34.lotheader	1	1	CLEAR
+19	35	19_35	HavenFall	HavenFall	HavenFall	common	common/media/maps/HavenFall/19_35.lotheader	1	1	CLEAR
+19	36	19_36	HavenFall	HavenFall	HavenFall	common	common/media/maps/HavenFall/19_36.lotheader	1	1	CLEAR
+19	42	19_42	Constown42	Constown	Constown, KY	common	common/media/maps/Constown, KY/19_42.lotheader	1	1	CLEAR
+19	43	19_43	Constown42	Constown	Constown, KY	common	common/media/maps/Constown, KY/19_43.lotheader	1	1	CLEAR
+19	44	19_44	Constown42	Constown	Constown, KY	common	common/media/maps/Constown, KY/19_44.lotheader	1	1	CLEAR
+19	59	19_59	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/19_59.lotheader	1	1	CLEAR
+19	60	19_60	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/19_60.lotheader	1	1	CLEAR
+19	61	19_61	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/19_61.lotheader	1	1	CLEAR
+19	62	19_62	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/19_62.lotheader	1	1	CLEAR
+19	63	19_63	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/19_63.lotheader	1	1	CLEAR
+19	64	19_64	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/19_64.lotheader	1	1	CLEAR
+19	65	19_65	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/19_65.lotheader	1	1	CLEAR
+19	66	19_66	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/19_66.lotheader	1	1	CLEAR
+19	67	19_67	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/19_67.lotheader	1	1	CLEAR
+19	68	19_68	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/19_68.lotheader	1	1	CLEAR
+19	69	19_69	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/19_69.lotheader	1	1	CLEAR
+20	0	20_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/20_0.lotheader	1	1	CLEAR
+20	1	20_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/20_1.lotheader	1	1	CLEAR
+20	2	20_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/20_2.lotheader	1	1	CLEAR
+20	3	20_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/20_3.lotheader	1	1	CLEAR
+20	4	20_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/20_4.lotheader	1	1	CLEAR
+20	5	20_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/20_5.lotheader	1	1	CLEAR
+20	6	20_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/20_6.lotheader	1	1	CLEAR
+20	7	20_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/20_7.lotheader	1	1	CLEAR
+20	8	20_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/20_8.lotheader	1	1	CLEAR
+20	9	20_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/20_9.lotheader	1	1	CLEAR
+20	10	20_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/20_10.lotheader	1	1	CLEAR
+20	11	20_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/20_11.lotheader	1	1	CLEAR
+20	12	20_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/20_12.lotheader	1	1	CLEAR
+20	13	20_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/20_13.lotheader	1	1	CLEAR
+20	14	20_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/20_14.lotheader	1	1	CLEAR
+20	15	20_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/20_15.lotheader	1	1	CLEAR
+20	16	20_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/20_16.lotheader	1	1	CLEAR
+20	17	20_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/20_17.lotheader	1	1	CLEAR
+20	18	20_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/20_18.lotheader	1	1	CLEAR
+20	19	20_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/20_19.lotheader	1	1	CLEAR
+20	42	20_42	Constown42	Constown	Constown, KY	common	common/media/maps/Constown, KY/20_42.lotheader	1	1	CLEAR
+20	43	20_43	Constown42	Constown	Constown, KY	common	common/media/maps/Constown, KY/20_43.lotheader	1	1	CLEAR
+20	44	20_44	Constown42	Constown	Constown, KY	common	common/media/maps/Constown, KY/20_44.lotheader	1	1	CLEAR
+20	59	20_59	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/20_59.lotheader	1	1	CLEAR
+20	60	20_60	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/20_60.lotheader	1	1	CLEAR
+20	61	20_61	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/20_61.lotheader	1	1	CLEAR
+20	62	20_62	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/20_62.lotheader	1	1	CLEAR
+20	63	20_63	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/20_63.lotheader	1	1	CLEAR
+20	64	20_64	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/20_64.lotheader	1	1	CLEAR
+20	65	20_65	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/20_65.lotheader	1	1	CLEAR
+20	66	20_66	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/20_66.lotheader	1	1	CLEAR
+20	67	20_67	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/20_67.lotheader	1	1	CLEAR
+20	68	20_68	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/20_68.lotheader	1	1	CLEAR
+20	69	20_69	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/20_69.lotheader	1	1	CLEAR
+21	0	21_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/21_0.lotheader	1	1	CLEAR
+21	1	21_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/21_1.lotheader	1	1	CLEAR
+21	2	21_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/21_2.lotheader	1	1	CLEAR
+21	3	21_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/21_3.lotheader	1	1	CLEAR
+21	4	21_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/21_4.lotheader	1	1	CLEAR
+21	5	21_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/21_5.lotheader	1	1	CLEAR
+21	6	21_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/21_6.lotheader	1	1	CLEAR
+21	7	21_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/21_7.lotheader	1	1	CLEAR
+21	8	21_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/21_8.lotheader	1	1	CLEAR
+21	9	21_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/21_9.lotheader	1	1	CLEAR
+21	10	21_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/21_10.lotheader	1	1	CLEAR
+21	11	21_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/21_11.lotheader	1	1	CLEAR
+21	12	21_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/21_12.lotheader	1	1	CLEAR
+21	13	21_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/21_13.lotheader	1	1	CLEAR
+21	14	21_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/21_14.lotheader	1	1	CLEAR
+21	15	21_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/21_15.lotheader	1	1	CLEAR
+21	16	21_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/21_16.lotheader	1	1	CLEAR
+21	17	21_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/21_17.lotheader	1	1	CLEAR
+21	18	21_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/21_18.lotheader	1	1	CLEAR
+21	19	21_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/21_19.lotheader	1	1	CLEAR
+21	42	21_42	Constown42	Constown	Constown, KY	common	common/media/maps/Constown, KY/21_42.lotheader	1	1	CLEAR
+21	43	21_43	Constown42	Constown	Constown, KY	common	common/media/maps/Constown, KY/21_43.lotheader	1	1	CLEAR
+21	44	21_44	Constown42	Constown	Constown, KY	common	common/media/maps/Constown, KY/21_44.lotheader	1	1	CLEAR
+21	59	21_59	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/21_59.lotheader	1	1	CLEAR
+21	60	21_60	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/21_60.lotheader	1	1	CLEAR
+21	61	21_61	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/21_61.lotheader	1	1	CLEAR
+21	62	21_62	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/21_62.lotheader	1	1	CLEAR
+21	63	21_63	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/21_63.lotheader	1	1	CLEAR
+21	64	21_64	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/21_64.lotheader	1	1	CLEAR
+21	65	21_65	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/21_65.lotheader	1	1	CLEAR
+21	66	21_66	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/21_66.lotheader	1	1	CLEAR
+21	67	21_67	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/21_67.lotheader	1	1	CLEAR
+21	68	21_68	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/21_68.lotheader	1	1	CLEAR
+21	69	21_69	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/21_69.lotheader	1	1	CLEAR
+22	0	22_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/22_0.lotheader	1	1	CLEAR
+22	1	22_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/22_1.lotheader	1	1	CLEAR
+22	2	22_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/22_2.lotheader	1	1	CLEAR
+22	3	22_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/22_3.lotheader	1	1	CLEAR
+22	4	22_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/22_4.lotheader	1	1	CLEAR
+22	5	22_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/22_5.lotheader	1	1	CLEAR
+22	6	22_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/22_6.lotheader	1	1	CLEAR
+22	7	22_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/22_7.lotheader	1	1	CLEAR
+22	8	22_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/22_8.lotheader	1	1	CLEAR
+22	9	22_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/22_9.lotheader	1	1	CLEAR
+22	10	22_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/22_10.lotheader	1	1	CLEAR
+22	11	22_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/22_11.lotheader	1	1	CLEAR
+22	12	22_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/22_12.lotheader	1	1	CLEAR
+22	13	22_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/22_13.lotheader	1	1	CLEAR
+22	14	22_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/22_14.lotheader	1	1	CLEAR
+22	15	22_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/22_15.lotheader	1	1	CLEAR
+22	16	22_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/22_16.lotheader	1	1	CLEAR
+22	17	22_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/22_17.lotheader	1	1	CLEAR
+22	18	22_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/22_18.lotheader	1	1	CLEAR
+22	19	22_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/22_19.lotheader	1	1	CLEAR
+22	42	22_42	Constown42	Constown	Constown, KY	common	common/media/maps/Constown, KY/22_42.lotheader	1	1	CLEAR
+22	43	22_43	Constown42	Constown	Constown, KY	common	common/media/maps/Constown, KY/22_43.lotheader	1	1	CLEAR
+22	44	22_44	Constown42	Constown	Constown, KY	common	common/media/maps/Constown, KY/22_44.lotheader	1	1	CLEAR
+22	59	22_59	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/22_59.lotheader	1	1	CLEAR
+22	60	22_60	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/22_60.lotheader	1	1	CLEAR
+22	61	22_61	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/22_61.lotheader	1	1	CLEAR
+22	62	22_62	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/22_62.lotheader	1	1	CLEAR
+22	63	22_63	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/22_63.lotheader	1	1	CLEAR
+22	64	22_64	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/22_64.lotheader	1	1	CLEAR
+22	65	22_65	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/22_65.lotheader	1	1	CLEAR
+22	66	22_66	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/22_66.lotheader	1	1	CLEAR
+22	67	22_67	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/22_67.lotheader	1	1	CLEAR
+22	68	22_68	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/22_68.lotheader	1	1	CLEAR
+22	69	22_69	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/22_69.lotheader	1	1	CLEAR
+23	0	23_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/23_0.lotheader	1	1	CLEAR
+23	1	23_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/23_1.lotheader	1	1	CLEAR
+23	2	23_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/23_2.lotheader	1	1	CLEAR
+23	3	23_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/23_3.lotheader	1	1	CLEAR
+23	4	23_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/23_4.lotheader	1	1	CLEAR
+23	5	23_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/23_5.lotheader	1	1	CLEAR
+23	6	23_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/23_6.lotheader	1	1	CLEAR
+23	7	23_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/23_7.lotheader	1	1	CLEAR
+23	8	23_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/23_8.lotheader	1	1	CLEAR
+23	9	23_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/23_9.lotheader	1	1	CLEAR
+23	10	23_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/23_10.lotheader	1	1	CLEAR
+23	11	23_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/23_11.lotheader	1	1	CLEAR
+23	12	23_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/23_12.lotheader	1	1	CLEAR
+23	13	23_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/23_13.lotheader	1	1	CLEAR
+23	14	23_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/23_14.lotheader	1	1	CLEAR
+23	15	23_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/23_15.lotheader	1	1	CLEAR
+23	16	23_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/23_16.lotheader	1	1	CLEAR
+23	17	23_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/23_17.lotheader	1	1	CLEAR
+23	18	23_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/23_18.lotheader	1	1	CLEAR
+23	19	23_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/23_19.lotheader	1	1	CLEAR
+23	42	23_42	Constown42	Constown	Constown, KY	common	common/media/maps/Constown, KY/23_42.lotheader	1	1	CLEAR
+23	43	23_43	Constown42	Constown	Constown, KY	common	common/media/maps/Constown, KY/23_43.lotheader	1	1	CLEAR
+23	44	23_44	Constown42	Constown	Constown, KY	common	common/media/maps/Constown, KY/23_44.lotheader	1	1	CLEAR
+23	59	23_59	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/23_59.lotheader	1	1	CLEAR
+23	60	23_60	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/23_60.lotheader	1	1	CLEAR
+23	61	23_61	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/23_61.lotheader	1	1	CLEAR
+23	62	23_62	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/23_62.lotheader	1	1	CLEAR
+23	63	23_63	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/23_63.lotheader	1	1	CLEAR
+23	64	23_64	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/23_64.lotheader	1	1	CLEAR
+23	65	23_65	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/23_65.lotheader	1	1	CLEAR
+23	66	23_66	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/23_66.lotheader	1	1	CLEAR
+23	67	23_67	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/23_67.lotheader	1	1	CLEAR
+23	68	23_68	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/23_68.lotheader	1	1	CLEAR
+23	69	23_69	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/23_69.lotheader	1	1	CLEAR
+24	0	24_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/24_0.lotheader	1	1	CLEAR
+24	1	24_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/24_1.lotheader	1	1	CLEAR
+24	2	24_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/24_2.lotheader	1	1	CLEAR
+24	3	24_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/24_3.lotheader	1	1	CLEAR
+24	4	24_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/24_4.lotheader	1	1	CLEAR
+24	5	24_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/24_5.lotheader	1	1	CLEAR
+24	6	24_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/24_6.lotheader	1	1	CLEAR
+24	7	24_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/24_7.lotheader	1	1	CLEAR
+24	8	24_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/24_8.lotheader	1	1	CLEAR
+24	9	24_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/24_9.lotheader	1	1	CLEAR
+24	10	24_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/24_10.lotheader	1	1	CLEAR
+24	11	24_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/24_11.lotheader	1	1	CLEAR
+24	12	24_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/24_12.lotheader	1	1	CLEAR
+24	13	24_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/24_13.lotheader	1	1	CLEAR
+24	14	24_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/24_14.lotheader	1	1	CLEAR
+24	15	24_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/24_15.lotheader	1	1	CLEAR
+24	16	24_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/24_16.lotheader	1	1	CLEAR
+24	17	24_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/24_17.lotheader	1	1	CLEAR
+24	18	24_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/24_18.lotheader	1	1	CLEAR
+24	19	24_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/24_19.lotheader	1	1	CLEAR
+24	42	24_42	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/24_42.lotheader	2	2	CROSS_MOD_CONFLICT
+24	42	24_42	Constown42	Constown	Constown, KY	common	common/media/maps/Constown, KY/24_42.lotheader	2	2	CROSS_MOD_CONFLICT
+24	43	24_43	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/24_43.lotheader	2	2	CROSS_MOD_CONFLICT
+24	43	24_43	Constown42	Constown	Constown, KY	common	common/media/maps/Constown, KY/24_43.lotheader	2	2	CROSS_MOD_CONFLICT
+24	44	24_44	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/24_44.lotheader	2	2	CROSS_MOD_CONFLICT
+24	44	24_44	Constown42	Constown	Constown, KY	common	common/media/maps/Constown, KY/24_44.lotheader	2	2	CROSS_MOD_CONFLICT
+24	45	24_45	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/24_45.lotheader	1	1	CLEAR
+24	56	24_56	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/24_56.lotheader	1	1	CLEAR
+24	57	24_57	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/24_57.lotheader	1	1	CLEAR
+24	58	24_58	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/24_58.lotheader	1	1	CLEAR
+24	59	24_59	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/24_59.lotheader	1	1	CLEAR
+24	60	24_60	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/24_60.lotheader	1	1	CLEAR
+24	61	24_61	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/24_61.lotheader	1	1	CLEAR
+24	62	24_62	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/24_62.lotheader	1	1	CLEAR
+24	63	24_63	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/24_63.lotheader	1	1	CLEAR
+24	64	24_64	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/24_64.lotheader	1	1	CLEAR
+24	65	24_65	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/24_65.lotheader	1	1	CLEAR
+24	66	24_66	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/24_66.lotheader	1	1	CLEAR
+24	67	24_67	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/24_67.lotheader	1	1	CLEAR
+24	68	24_68	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/24_68.lotheader	1	1	CLEAR
+24	69	24_69	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/24_69.lotheader	1	1	CLEAR
+25	0	25_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/25_0.lotheader	1	1	CLEAR
+25	1	25_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/25_1.lotheader	1	1	CLEAR
+25	2	25_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/25_2.lotheader	1	1	CLEAR
+25	3	25_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/25_3.lotheader	1	1	CLEAR
+25	4	25_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/25_4.lotheader	1	1	CLEAR
+25	5	25_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/25_5.lotheader	1	1	CLEAR
+25	6	25_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/25_6.lotheader	1	1	CLEAR
+25	7	25_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/25_7.lotheader	1	1	CLEAR
+25	8	25_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/25_8.lotheader	1	1	CLEAR
+25	9	25_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/25_9.lotheader	1	1	CLEAR
+25	10	25_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/25_10.lotheader	1	1	CLEAR
+25	11	25_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/25_11.lotheader	1	1	CLEAR
+25	12	25_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/25_12.lotheader	1	1	CLEAR
+25	13	25_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/25_13.lotheader	1	1	CLEAR
+25	14	25_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/25_14.lotheader	1	1	CLEAR
+25	15	25_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/25_15.lotheader	1	1	CLEAR
+25	16	25_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/25_16.lotheader	1	1	CLEAR
+25	17	25_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/25_17.lotheader	1	1	CLEAR
+25	18	25_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/25_18.lotheader	1	1	CLEAR
+25	19	25_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/25_19.lotheader	1	1	CLEAR
+25	42	25_42	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/25_42.lotheader	1	1	CLEAR
+25	43	25_43	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/25_43.lotheader	1	1	CLEAR
+25	44	25_44	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/25_44.lotheader	1	1	CLEAR
+25	45	25_45	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/25_45.lotheader	1	1	CLEAR
+25	56	25_56	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/25_56.lotheader	1	1	CLEAR
+25	57	25_57	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/25_57.lotheader	1	1	CLEAR
+25	58	25_58	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/25_58.lotheader	1	1	CLEAR
+25	59	25_59	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/25_59.lotheader	1	1	CLEAR
+25	60	25_60	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/25_60.lotheader	1	1	CLEAR
+25	61	25_61	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/25_61.lotheader	1	1	CLEAR
+25	62	25_62	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/25_62.lotheader	1	1	CLEAR
+25	63	25_63	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/25_63.lotheader	1	1	CLEAR
+25	64	25_64	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/25_64.lotheader	1	1	CLEAR
+25	65	25_65	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/25_65.lotheader	1	1	CLEAR
+25	66	25_66	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/25_66.lotheader	1	1	CLEAR
+25	67	25_67	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/25_67.lotheader	1	1	CLEAR
+25	68	25_68	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/25_68.lotheader	1	1	CLEAR
+25	69	25_69	RavenCreekB42	Raven Creek B42	Raven Creek B42	common	common/media/maps/Raven Creek B42/25_69.lotheader	1	1	CLEAR
+26	0	26_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/26_0.lotheader	1	1	CLEAR
+26	1	26_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/26_1.lotheader	1	1	CLEAR
+26	2	26_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/26_2.lotheader	1	1	CLEAR
+26	3	26_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/26_3.lotheader	1	1	CLEAR
+26	4	26_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/26_4.lotheader	1	1	CLEAR
+26	5	26_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/26_5.lotheader	1	1	CLEAR
+26	6	26_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/26_6.lotheader	1	1	CLEAR
+26	7	26_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/26_7.lotheader	1	1	CLEAR
+26	8	26_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/26_8.lotheader	1	1	CLEAR
+26	9	26_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/26_9.lotheader	1	1	CLEAR
+26	10	26_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/26_10.lotheader	1	1	CLEAR
+26	11	26_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/26_11.lotheader	1	1	CLEAR
+26	12	26_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/26_12.lotheader	1	1	CLEAR
+26	13	26_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/26_13.lotheader	1	1	CLEAR
+26	14	26_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/26_14.lotheader	1	1	CLEAR
+26	15	26_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/26_15.lotheader	1	1	CLEAR
+26	16	26_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/26_16.lotheader	1	1	CLEAR
+26	17	26_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/26_17.lotheader	1	1	CLEAR
+26	18	26_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/26_18.lotheader	1	1	CLEAR
+26	19	26_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/26_19.lotheader	1	1	CLEAR
+26	42	26_42	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/26_42.lotheader	1	1	CLEAR
+26	43	26_43	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/26_43.lotheader	1	1	CLEAR
+26	44	26_44	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/26_44.lotheader	1	1	CLEAR
+26	45	26_45	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/26_45.lotheader	1	1	CLEAR
+27	0	27_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/27_0.lotheader	1	1	CLEAR
+27	1	27_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/27_1.lotheader	1	1	CLEAR
+27	2	27_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/27_2.lotheader	1	1	CLEAR
+27	3	27_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/27_3.lotheader	1	1	CLEAR
+27	4	27_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/27_4.lotheader	1	1	CLEAR
+27	5	27_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/27_5.lotheader	1	1	CLEAR
+27	6	27_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/27_6.lotheader	1	1	CLEAR
+27	7	27_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/27_7.lotheader	1	1	CLEAR
+27	8	27_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/27_8.lotheader	1	1	CLEAR
+27	9	27_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/27_9.lotheader	1	1	CLEAR
+27	10	27_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/27_10.lotheader	1	1	CLEAR
+27	11	27_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/27_11.lotheader	1	1	CLEAR
+27	12	27_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/27_12.lotheader	1	1	CLEAR
+27	13	27_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/27_13.lotheader	1	1	CLEAR
+27	14	27_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/27_14.lotheader	1	1	CLEAR
+27	15	27_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/27_15.lotheader	1	1	CLEAR
+27	16	27_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/27_16.lotheader	1	1	CLEAR
+27	17	27_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/27_17.lotheader	1	1	CLEAR
+27	18	27_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/27_18.lotheader	1	1	CLEAR
+27	19	27_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/27_19.lotheader	1	1	CLEAR
+27	42	27_42	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/27_42.lotheader	1	1	CLEAR
+27	43	27_43	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/27_43.lotheader	1	1	CLEAR
+27	44	27_44	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/27_44.lotheader	1	1	CLEAR
+27	45	27_45	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/27_45.lotheader	1	1	CLEAR
+28	0	28_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/28_0.lotheader	1	1	CLEAR
+28	1	28_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/28_1.lotheader	1	1	CLEAR
+28	2	28_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/28_2.lotheader	1	1	CLEAR
+28	3	28_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/28_3.lotheader	1	1	CLEAR
+28	4	28_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/28_4.lotheader	1	1	CLEAR
+28	5	28_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/28_5.lotheader	1	1	CLEAR
+28	6	28_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/28_6.lotheader	1	1	CLEAR
+28	7	28_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/28_7.lotheader	1	1	CLEAR
+28	8	28_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/28_8.lotheader	1	1	CLEAR
+28	9	28_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/28_9.lotheader	1	1	CLEAR
+28	10	28_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/28_10.lotheader	1	1	CLEAR
+28	11	28_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/28_11.lotheader	1	1	CLEAR
+28	12	28_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/28_12.lotheader	1	1	CLEAR
+28	13	28_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/28_13.lotheader	1	1	CLEAR
+28	14	28_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/28_14.lotheader	1	1	CLEAR
+28	15	28_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/28_15.lotheader	1	1	CLEAR
+28	16	28_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/28_16.lotheader	1	1	CLEAR
+28	17	28_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/28_17.lotheader	1	1	CLEAR
+28	18	28_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/28_18.lotheader	1	1	CLEAR
+28	19	28_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/28_19.lotheader	1	1	CLEAR
+28	42	28_42	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/28_42.lotheader	1	1	CLEAR
+28	43	28_43	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/28_43.lotheader	1	1	CLEAR
+28	44	28_44	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/28_44.lotheader	1	1	CLEAR
+28	45	28_45	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/28_45.lotheader	1	1	CLEAR
+28	49	28_49	Cathaya Valley 2.0 B42 version	Cathaya Valley 2.0	Cathaya Valley2.0	common	common/media/maps/Cathaya Valley2.0/28_49.lotheader	1	1	CLEAR
+28	50	28_50	Cathaya Valley 2.0 B42 version	Cathaya Valley 2.0	Cathaya Valley2.0	common	common/media/maps/Cathaya Valley2.0/28_50.lotheader	1	1	CLEAR
+28	51	28_51	Cathaya Valley 2.0 B42 version	Cathaya Valley 2.0	Cathaya Valley2.0	common	common/media/maps/Cathaya Valley2.0/28_51.lotheader	1	1	CLEAR
+29	0	29_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/29_0.lotheader	1	1	CLEAR
+29	1	29_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/29_1.lotheader	1	1	CLEAR
+29	2	29_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/29_2.lotheader	1	1	CLEAR
+29	3	29_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/29_3.lotheader	1	1	CLEAR
+29	4	29_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/29_4.lotheader	1	1	CLEAR
+29	5	29_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/29_5.lotheader	1	1	CLEAR
+29	6	29_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/29_6.lotheader	1	1	CLEAR
+29	7	29_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/29_7.lotheader	1	1	CLEAR
+29	8	29_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/29_8.lotheader	1	1	CLEAR
+29	9	29_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/29_9.lotheader	1	1	CLEAR
+29	10	29_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/29_10.lotheader	1	1	CLEAR
+29	11	29_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/29_11.lotheader	1	1	CLEAR
+29	12	29_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/29_12.lotheader	1	1	CLEAR
+29	13	29_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/29_13.lotheader	1	1	CLEAR
+29	14	29_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/29_14.lotheader	1	1	CLEAR
+29	15	29_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/29_15.lotheader	1	1	CLEAR
+29	16	29_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/29_16.lotheader	1	1	CLEAR
+29	17	29_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/29_17.lotheader	1	1	CLEAR
+29	18	29_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/29_18.lotheader	1	1	CLEAR
+29	19	29_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/29_19.lotheader	1	1	CLEAR
+29	42	29_42	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/29_42.lotheader	1	1	CLEAR
+29	43	29_43	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/29_43.lotheader	1	1	CLEAR
+29	44	29_44	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/29_44.lotheader	1	1	CLEAR
+29	45	29_45	42Grapeseed	Grapeseed	Grapeseed	common	common/media/maps/Grapeseed/29_45.lotheader	1	1	CLEAR
+29	49	29_49	Cathaya Valley 2.0 B42 version	Cathaya Valley 2.0	Cathaya Valley2.0	common	common/media/maps/Cathaya Valley2.0/29_49.lotheader	1	1	CLEAR
+29	50	29_50	Cathaya Valley 2.0 B42 version	Cathaya Valley 2.0	Cathaya Valley2.0	common	common/media/maps/Cathaya Valley2.0/29_50.lotheader	1	1	CLEAR
+29	51	29_51	Cathaya Valley 2.0 B42 version	Cathaya Valley 2.0	Cathaya Valley2.0	common	common/media/maps/Cathaya Valley2.0/29_51.lotheader	1	1	CLEAR
+30	0	30_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_0.lotheader	1	1	CLEAR
+30	1	30_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_1.lotheader	1	1	CLEAR
+30	2	30_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_2.lotheader	1	1	CLEAR
+30	3	30_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_3.lotheader	1	1	CLEAR
+30	4	30_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_4.lotheader	1	1	CLEAR
+30	5	30_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_5.lotheader	1	1	CLEAR
+30	6	30_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_6.lotheader	1	1	CLEAR
+30	7	30_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_7.lotheader	1	1	CLEAR
+30	8	30_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_8.lotheader	1	1	CLEAR
+30	9	30_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_9.lotheader	1	1	CLEAR
+30	10	30_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_10.lotheader	1	1	CLEAR
+30	11	30_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_11.lotheader	1	1	CLEAR
+30	12	30_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_12.lotheader	1	1	CLEAR
+30	13	30_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_13.lotheader	1	1	CLEAR
+30	14	30_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_14.lotheader	1	1	CLEAR
+30	15	30_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_15.lotheader	1	1	CLEAR
+30	16	30_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_16.lotheader	1	1	CLEAR
+30	17	30_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_17.lotheader	1	1	CLEAR
+30	18	30_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_18.lotheader	1	1	CLEAR
+30	19	30_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_19.lotheader	1	1	CLEAR
+30	20	30_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_20.lotheader	1	1	CLEAR
+30	21	30_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_21.lotheader	1	1	CLEAR
+30	22	30_22	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_22.lotheader	1	1	CLEAR
+30	23	30_23	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_23.lotheader	1	1	CLEAR
+30	24	30_24	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_24.lotheader	1	1	CLEAR
+30	25	30_25	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_25.lotheader	1	1	CLEAR
+30	26	30_26	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/30_26.lotheader	1	1	CLEAR
+31	0	31_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_0.lotheader	1	1	CLEAR
+31	1	31_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_1.lotheader	1	1	CLEAR
+31	2	31_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_2.lotheader	1	1	CLEAR
+31	3	31_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_3.lotheader	1	1	CLEAR
+31	4	31_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_4.lotheader	1	1	CLEAR
+31	5	31_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_5.lotheader	1	1	CLEAR
+31	6	31_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_6.lotheader	1	1	CLEAR
+31	7	31_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_7.lotheader	1	1	CLEAR
+31	8	31_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_8.lotheader	1	1	CLEAR
+31	9	31_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_9.lotheader	1	1	CLEAR
+31	10	31_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_10.lotheader	1	1	CLEAR
+31	11	31_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_11.lotheader	1	1	CLEAR
+31	12	31_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_12.lotheader	1	1	CLEAR
+31	13	31_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_13.lotheader	1	1	CLEAR
+31	14	31_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_14.lotheader	1	1	CLEAR
+31	15	31_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_15.lotheader	1	1	CLEAR
+31	16	31_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_16.lotheader	1	1	CLEAR
+31	17	31_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_17.lotheader	1	1	CLEAR
+31	18	31_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_18.lotheader	1	1	CLEAR
+31	19	31_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_19.lotheader	1	1	CLEAR
+31	20	31_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_20.lotheader	1	1	CLEAR
+31	21	31_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_21.lotheader	1	1	CLEAR
+31	22	31_22	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_22.lotheader	1	1	CLEAR
+31	23	31_23	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_23.lotheader	1	1	CLEAR
+31	24	31_24	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_24.lotheader	1	1	CLEAR
+31	25	31_25	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_25.lotheader	1	1	CLEAR
+31	26	31_26	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/31_26.lotheader	1	1	CLEAR
+31	32	31_32	Maplewood	Maplewood	Maplewood	common	common/media/maps/Maplewood/31_32.lotheader	1	1	CLEAR
+31	33	31_33	Maplewood	Maplewood	Maplewood	common	common/media/maps/Maplewood/31_33.lotheader	1	1	CLEAR
+32	0	32_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_0.lotheader	1	1	CLEAR
+32	1	32_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_1.lotheader	1	1	CLEAR
+32	2	32_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_2.lotheader	1	1	CLEAR
+32	3	32_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_3.lotheader	1	1	CLEAR
+32	4	32_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_4.lotheader	1	1	CLEAR
+32	5	32_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_5.lotheader	1	1	CLEAR
+32	6	32_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_6.lotheader	1	1	CLEAR
+32	7	32_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_7.lotheader	1	1	CLEAR
+32	8	32_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_8.lotheader	1	1	CLEAR
+32	9	32_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_9.lotheader	1	1	CLEAR
+32	10	32_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_10.lotheader	1	1	CLEAR
+32	11	32_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_11.lotheader	1	1	CLEAR
+32	12	32_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_12.lotheader	1	1	CLEAR
+32	13	32_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_13.lotheader	1	1	CLEAR
+32	14	32_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_14.lotheader	1	1	CLEAR
+32	15	32_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_15.lotheader	1	1	CLEAR
+32	16	32_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_16.lotheader	1	1	CLEAR
+32	17	32_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_17.lotheader	1	1	CLEAR
+32	18	32_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_18.lotheader	1	1	CLEAR
+32	19	32_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_19.lotheader	1	1	CLEAR
+32	20	32_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_20.lotheader	1	1	CLEAR
+32	21	32_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_21.lotheader	1	1	CLEAR
+32	22	32_22	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_22.lotheader	1	1	CLEAR
+32	23	32_23	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_23.lotheader	1	1	CLEAR
+32	24	32_24	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_24.lotheader	1	1	CLEAR
+32	25	32_25	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_25.lotheader	1	1	CLEAR
+32	26	32_26	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_26.lotheader	1	1	CLEAR
+32	27	32_27	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_27.lotheader	1	1	CLEAR
+32	28	32_28	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/32_28.lotheader	1	1	CLEAR
+32	32	32_32	Maplewood	Maplewood	Maplewood	common	common/media/maps/Maplewood/32_32.lotheader	1	1	CLEAR
+32	33	32_33	Maplewood	Maplewood	Maplewood	common	common/media/maps/Maplewood/32_33.lotheader	1	1	CLEAR
+32	38	32_38	Estate 39	Estate 39	Estate 39	common	common/media/maps/Estate 39/32_38.lotheader	1	1	CLEAR
+32	39	32_39	Estate 39	Estate 39	Estate 39	common	common/media/maps/Estate 39/32_39.lotheader	1	1	CLEAR
+33	0	33_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_0.lotheader	1	1	CLEAR
+33	1	33_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_1.lotheader	1	1	CLEAR
+33	2	33_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_2.lotheader	1	1	CLEAR
+33	3	33_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_3.lotheader	1	1	CLEAR
+33	4	33_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_4.lotheader	1	1	CLEAR
+33	5	33_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_5.lotheader	1	1	CLEAR
+33	6	33_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_6.lotheader	1	1	CLEAR
+33	7	33_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_7.lotheader	1	1	CLEAR
+33	8	33_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_8.lotheader	1	1	CLEAR
+33	9	33_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_9.lotheader	1	1	CLEAR
+33	10	33_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_10.lotheader	1	1	CLEAR
+33	11	33_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_11.lotheader	1	1	CLEAR
+33	12	33_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_12.lotheader	1	1	CLEAR
+33	13	33_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_13.lotheader	1	1	CLEAR
+33	14	33_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_14.lotheader	1	1	CLEAR
+33	15	33_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_15.lotheader	1	1	CLEAR
+33	16	33_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_16.lotheader	1	1	CLEAR
+33	17	33_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_17.lotheader	1	1	CLEAR
+33	18	33_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_18.lotheader	1	1	CLEAR
+33	19	33_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_19.lotheader	1	1	CLEAR
+33	20	33_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_20.lotheader	1	1	CLEAR
+33	21	33_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_21.lotheader	1	1	CLEAR
+33	22	33_22	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_22.lotheader	1	1	CLEAR
+33	23	33_23	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_23.lotheader	1	1	CLEAR
+33	24	33_24	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_24.lotheader	1	1	CLEAR
+33	25	33_25	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_25.lotheader	1	1	CLEAR
+33	26	33_26	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_26.lotheader	1	1	CLEAR
+33	27	33_27	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_27.lotheader	1	1	CLEAR
+33	28	33_28	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/33_28.lotheader	1	1	CLEAR
+33	37	33_37	Willowbrook Bastion!	Willowbrook Bastion!	Willowbrook Bastion!	common	common/media/maps/Willowbrook Bastion!/33_37.lotheader	1	1	CLEAR
+33	38	33_38	Estate 39	Estate 39	Estate 39	common	common/media/maps/Estate 39/33_38.lotheader	2	2	CROSS_MOD_CONFLICT
+33	38	33_38	Willowbrook Bastion!	Willowbrook Bastion!	Willowbrook Bastion!	common	common/media/maps/Willowbrook Bastion!/33_38.lotheader	2	2	CROSS_MOD_CONFLICT
+33	39	33_39	Estate 39	Estate 39	Estate 39	common	common/media/maps/Estate 39/33_39.lotheader	2	2	CROSS_MOD_CONFLICT
+33	39	33_39	Willowbrook Bastion!	Willowbrook Bastion!	Willowbrook Bastion!	common	common/media/maps/Willowbrook Bastion!/33_39.lotheader	2	2	CROSS_MOD_CONFLICT
+34	0	34_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_0.lotheader	1	1	CLEAR
+34	1	34_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_1.lotheader	1	1	CLEAR
+34	2	34_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_2.lotheader	1	1	CLEAR
+34	3	34_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_3.lotheader	1	1	CLEAR
+34	4	34_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_4.lotheader	1	1	CLEAR
+34	5	34_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_5.lotheader	1	1	CLEAR
+34	6	34_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_6.lotheader	1	1	CLEAR
+34	7	34_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_7.lotheader	1	1	CLEAR
+34	8	34_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_8.lotheader	1	1	CLEAR
+34	9	34_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_9.lotheader	1	1	CLEAR
+34	10	34_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_10.lotheader	1	1	CLEAR
+34	11	34_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_11.lotheader	1	1	CLEAR
+34	12	34_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_12.lotheader	1	1	CLEAR
+34	13	34_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_13.lotheader	1	1	CLEAR
+34	14	34_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_14.lotheader	1	1	CLEAR
+34	15	34_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_15.lotheader	1	1	CLEAR
+34	16	34_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_16.lotheader	1	1	CLEAR
+34	17	34_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_17.lotheader	1	1	CLEAR
+34	18	34_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_18.lotheader	1	1	CLEAR
+34	19	34_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_19.lotheader	1	1	CLEAR
+34	20	34_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_20.lotheader	1	1	CLEAR
+34	21	34_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_21.lotheader	1	1	CLEAR
+34	22	34_22	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_22.lotheader	1	1	CLEAR
+34	23	34_23	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_23.lotheader	1	1	CLEAR
+34	24	34_24	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_24.lotheader	1	1	CLEAR
+34	25	34_25	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_25.lotheader	1	1	CLEAR
+34	26	34_26	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_26.lotheader	1	1	CLEAR
+34	27	34_27	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_27.lotheader	1	1	CLEAR
+34	28	34_28	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/34_28.lotheader	1	1	CLEAR
+34	37	34_37	Willowbrook Bastion!	Willowbrook Bastion!	Willowbrook Bastion!	common	common/media/maps/Willowbrook Bastion!/34_37.lotheader	1	1	CLEAR
+34	38	34_38	Willowbrook Bastion!	Willowbrook Bastion!	Willowbrook Bastion!	common	common/media/maps/Willowbrook Bastion!/34_38.lotheader	1	1	CLEAR
+34	39	34_39	Willowbrook Bastion!	Willowbrook Bastion!	Willowbrook Bastion!	common	common/media/maps/Willowbrook Bastion!/34_39.lotheader	1	1	CLEAR
+35	0	35_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_0.lotheader	1	1	CLEAR
+35	1	35_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_1.lotheader	1	1	CLEAR
+35	2	35_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_2.lotheader	1	1	CLEAR
+35	3	35_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_3.lotheader	1	1	CLEAR
+35	4	35_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_4.lotheader	1	1	CLEAR
+35	5	35_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_5.lotheader	1	1	CLEAR
+35	6	35_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_6.lotheader	1	1	CLEAR
+35	7	35_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_7.lotheader	1	1	CLEAR
+35	8	35_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_8.lotheader	1	1	CLEAR
+35	9	35_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_9.lotheader	1	1	CLEAR
+35	10	35_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_10.lotheader	1	1	CLEAR
+35	11	35_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_11.lotheader	1	1	CLEAR
+35	12	35_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_12.lotheader	1	1	CLEAR
+35	13	35_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_13.lotheader	1	1	CLEAR
+35	14	35_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_14.lotheader	1	1	CLEAR
+35	15	35_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_15.lotheader	1	1	CLEAR
+35	16	35_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_16.lotheader	1	1	CLEAR
+35	17	35_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_17.lotheader	1	1	CLEAR
+35	18	35_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_18.lotheader	1	1	CLEAR
+35	19	35_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_19.lotheader	1	1	CLEAR
+35	20	35_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_20.lotheader	1	1	CLEAR
+35	21	35_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_21.lotheader	1	1	CLEAR
+35	22	35_22	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_22.lotheader	1	1	CLEAR
+35	23	35_23	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_23.lotheader	1	1	CLEAR
+35	24	35_24	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_24.lotheader	1	1	CLEAR
+35	25	35_25	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_25.lotheader	1	1	CLEAR
+35	26	35_26	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_26.lotheader	1	1	CLEAR
+35	27	35_27	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_27.lotheader	1	1	CLEAR
+35	28	35_28	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/35_28.lotheader	1	1	CLEAR
+35	37	35_37	Willowbrook Bastion!	Willowbrook Bastion!	Willowbrook Bastion!	common	common/media/maps/Willowbrook Bastion!/35_37.lotheader	1	1	CLEAR
+35	38	35_38	Willowbrook Bastion!	Willowbrook Bastion!	Willowbrook Bastion!	common	common/media/maps/Willowbrook Bastion!/35_38.lotheader	1	1	CLEAR
+35	39	35_39	Willowbrook Bastion!	Willowbrook Bastion!	Willowbrook Bastion!	common	common/media/maps/Willowbrook Bastion!/35_39.lotheader	1	1	CLEAR
+35	49	35_49	rustbury_2026_b42	RustBury	RustBury	common	common/media/maps/RustBury/35_49.lotheader	1	1	CLEAR
+35	50	35_50	rustbury_2026_b42	RustBury	RustBury	common	common/media/maps/RustBury/35_50.lotheader	1	1	CLEAR
+36	0	36_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_0.lotheader	1	1	CLEAR
+36	1	36_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_1.lotheader	1	1	CLEAR
+36	2	36_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_2.lotheader	1	1	CLEAR
+36	3	36_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_3.lotheader	1	1	CLEAR
+36	4	36_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_4.lotheader	1	1	CLEAR
+36	5	36_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_5.lotheader	1	1	CLEAR
+36	6	36_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_6.lotheader	1	1	CLEAR
+36	7	36_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_7.lotheader	1	1	CLEAR
+36	8	36_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_8.lotheader	1	1	CLEAR
+36	9	36_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_9.lotheader	1	1	CLEAR
+36	10	36_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_10.lotheader	1	1	CLEAR
+36	11	36_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_11.lotheader	1	1	CLEAR
+36	12	36_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_12.lotheader	1	1	CLEAR
+36	13	36_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_13.lotheader	1	1	CLEAR
+36	14	36_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_14.lotheader	1	1	CLEAR
+36	15	36_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_15.lotheader	1	1	CLEAR
+36	16	36_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_16.lotheader	1	1	CLEAR
+36	17	36_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_17.lotheader	1	1	CLEAR
+36	18	36_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_18.lotheader	1	1	CLEAR
+36	19	36_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_19.lotheader	1	1	CLEAR
+36	20	36_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_20.lotheader	1	1	CLEAR
+36	21	36_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_21.lotheader	1	1	CLEAR
+36	22	36_22	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_22.lotheader	1	1	CLEAR
+36	23	36_23	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_23.lotheader	1	1	CLEAR
+36	24	36_24	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/36_24.lotheader	1	1	CLEAR
+36	37	36_37	Willowbrook Bastion!	Willowbrook Bastion!	Willowbrook Bastion!	common	common/media/maps/Willowbrook Bastion!/36_37.lotheader	1	1	CLEAR
+36	38	36_38	Willowbrook Bastion!	Willowbrook Bastion!	Willowbrook Bastion!	common	common/media/maps/Willowbrook Bastion!/36_38.lotheader	1	1	CLEAR
+36	39	36_39	Willowbrook Bastion!	Willowbrook Bastion!	Willowbrook Bastion!	common	common/media/maps/Willowbrook Bastion!/36_39.lotheader	1	1	CLEAR
+36	49	36_49	rustbury_2026_b42	RustBury	RustBury	common	common/media/maps/RustBury/36_49.lotheader	1	1	CLEAR
+36	50	36_50	rustbury_2026_b42	RustBury	RustBury	common	common/media/maps/RustBury/36_50.lotheader	1	1	CLEAR
+37	0	37_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_0.lotheader	1	1	CLEAR
+37	1	37_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_1.lotheader	1	1	CLEAR
+37	2	37_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_2.lotheader	1	1	CLEAR
+37	3	37_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_3.lotheader	1	1	CLEAR
+37	4	37_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_4.lotheader	1	1	CLEAR
+37	5	37_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_5.lotheader	1	1	CLEAR
+37	6	37_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_6.lotheader	1	1	CLEAR
+37	7	37_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_7.lotheader	1	1	CLEAR
+37	8	37_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_8.lotheader	1	1	CLEAR
+37	9	37_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_9.lotheader	1	1	CLEAR
+37	10	37_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_10.lotheader	1	1	CLEAR
+37	11	37_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_11.lotheader	1	1	CLEAR
+37	12	37_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_12.lotheader	1	1	CLEAR
+37	13	37_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_13.lotheader	1	1	CLEAR
+37	14	37_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_14.lotheader	1	1	CLEAR
+37	15	37_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_15.lotheader	1	1	CLEAR
+37	16	37_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_16.lotheader	1	1	CLEAR
+37	17	37_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_17.lotheader	1	1	CLEAR
+37	18	37_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_18.lotheader	1	1	CLEAR
+37	19	37_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_19.lotheader	1	1	CLEAR
+37	20	37_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_20.lotheader	1	1	CLEAR
+37	21	37_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_21.lotheader	1	1	CLEAR
+37	22	37_22	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_22.lotheader	1	1	CLEAR
+37	23	37_23	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_23.lotheader	1	1	CLEAR
+37	24	37_24	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/37_24.lotheader	1	1	CLEAR
+37	37	37_37	Willowbrook Bastion!	Willowbrook Bastion!	Willowbrook Bastion!	common	common/media/maps/Willowbrook Bastion!/37_37.lotheader	1	1	CLEAR
+37	38	37_38	Willowbrook Bastion!	Willowbrook Bastion!	Willowbrook Bastion!	common	common/media/maps/Willowbrook Bastion!/37_38.lotheader	1	1	CLEAR
+37	39	37_39	Willowbrook Bastion!	Willowbrook Bastion!	Willowbrook Bastion!	common	common/media/maps/Willowbrook Bastion!/37_39.lotheader	1	1	CLEAR
+38	0	38_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_0.lotheader	1	1	CLEAR
+38	1	38_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_1.lotheader	1	1	CLEAR
+38	2	38_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_2.lotheader	1	1	CLEAR
+38	3	38_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_3.lotheader	1	1	CLEAR
+38	4	38_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_4.lotheader	1	1	CLEAR
+38	5	38_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_5.lotheader	1	1	CLEAR
+38	6	38_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_6.lotheader	1	1	CLEAR
+38	7	38_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_7.lotheader	1	1	CLEAR
+38	8	38_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_8.lotheader	1	1	CLEAR
+38	9	38_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_9.lotheader	1	1	CLEAR
+38	10	38_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_10.lotheader	1	1	CLEAR
+38	11	38_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_11.lotheader	1	1	CLEAR
+38	12	38_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_12.lotheader	1	1	CLEAR
+38	13	38_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_13.lotheader	1	1	CLEAR
+38	14	38_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_14.lotheader	1	1	CLEAR
+38	15	38_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_15.lotheader	1	1	CLEAR
+38	16	38_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_16.lotheader	1	1	CLEAR
+38	17	38_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_17.lotheader	1	1	CLEAR
+38	18	38_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_18.lotheader	1	1	CLEAR
+38	19	38_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_19.lotheader	1	1	CLEAR
+38	20	38_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_20.lotheader	1	1	CLEAR
+38	21	38_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_21.lotheader	1	1	CLEAR
+38	22	38_22	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_22.lotheader	1	1	CLEAR
+38	23	38_23	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_23.lotheader	1	1	CLEAR
+38	24	38_24	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/38_24.lotheader	1	1	CLEAR
+38	38	38_38	RaccoonCityB42	RaccoonCityB42	RaccoonCity	common	common/media/maps/RaccoonCity/38_38.lotheader	1	1	CLEAR
+38	39	38_39	RaccoonCityB42	RaccoonCityB42	RaccoonCity	common	common/media/maps/RaccoonCity/38_39.lotheader	1	1	CLEAR
+38	40	38_40	RaccoonCityB42	RaccoonCityB42	RaccoonCity	common	common/media/maps/RaccoonCity/38_40.lotheader	1	1	CLEAR
+38	41	38_41	RaccoonCityB42	RaccoonCityB42	RaccoonCity	common	common/media/maps/RaccoonCity/38_41.lotheader	1	1	CLEAR
+38	55	38_55	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/38_55.lotheader	1	1	CLEAR
+38	56	38_56	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/38_56.lotheader	1	1	CLEAR
+38	57	38_57	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/38_57.lotheader	1	1	CLEAR
+38	58	38_58	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/38_58.lotheader	1	1	CLEAR
+38	59	38_59	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/38_59.lotheader	1	1	CLEAR
+39	0	39_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_0.lotheader	1	1	CLEAR
+39	1	39_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_1.lotheader	1	1	CLEAR
+39	2	39_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_2.lotheader	1	1	CLEAR
+39	3	39_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_3.lotheader	1	1	CLEAR
+39	4	39_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_4.lotheader	1	1	CLEAR
+39	5	39_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_5.lotheader	1	1	CLEAR
+39	6	39_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_6.lotheader	1	1	CLEAR
+39	7	39_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_7.lotheader	1	1	CLEAR
+39	8	39_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_8.lotheader	1	1	CLEAR
+39	9	39_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_9.lotheader	1	1	CLEAR
+39	10	39_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_10.lotheader	1	1	CLEAR
+39	11	39_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_11.lotheader	1	1	CLEAR
+39	12	39_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_12.lotheader	1	1	CLEAR
+39	13	39_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_13.lotheader	1	1	CLEAR
+39	14	39_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_14.lotheader	1	1	CLEAR
+39	15	39_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_15.lotheader	1	1	CLEAR
+39	16	39_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_16.lotheader	1	1	CLEAR
+39	17	39_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_17.lotheader	1	1	CLEAR
+39	18	39_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_18.lotheader	1	1	CLEAR
+39	19	39_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_19.lotheader	1	1	CLEAR
+39	20	39_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_20.lotheader	1	1	CLEAR
+39	21	39_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_21.lotheader	1	1	CLEAR
+39	22	39_22	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_22.lotheader	1	1	CLEAR
+39	23	39_23	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_23.lotheader	1	1	CLEAR
+39	24	39_24	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/39_24.lotheader	1	1	CLEAR
+39	38	39_38	RaccoonCityB42	RaccoonCityB42	RaccoonCity	common	common/media/maps/RaccoonCity/39_38.lotheader	1	1	CLEAR
+39	39	39_39	RaccoonCityB42	RaccoonCityB42	RaccoonCity	common	common/media/maps/RaccoonCity/39_39.lotheader	1	1	CLEAR
+39	40	39_40	RaccoonCityB42	RaccoonCityB42	RaccoonCity	common	common/media/maps/RaccoonCity/39_40.lotheader	1	1	CLEAR
+39	41	39_41	RaccoonCityB42	RaccoonCityB42	RaccoonCity	common	common/media/maps/RaccoonCity/39_41.lotheader	1	1	CLEAR
+39	55	39_55	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/39_55.lotheader	1	1	CLEAR
+39	56	39_56	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/39_56.lotheader	1	1	CLEAR
+39	57	39_57	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/39_57.lotheader	1	1	CLEAR
+39	58	39_58	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/39_58.lotheader	1	1	CLEAR
+39	59	39_59	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/39_59.lotheader	1	1	CLEAR
+40	0	40_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_0.lotheader	1	1	CLEAR
+40	1	40_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_1.lotheader	1	1	CLEAR
+40	2	40_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_2.lotheader	1	1	CLEAR
+40	3	40_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_3.lotheader	1	1	CLEAR
+40	4	40_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_4.lotheader	1	1	CLEAR
+40	5	40_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_5.lotheader	1	1	CLEAR
+40	6	40_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_6.lotheader	1	1	CLEAR
+40	7	40_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_7.lotheader	1	1	CLEAR
+40	8	40_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_8.lotheader	1	1	CLEAR
+40	9	40_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_9.lotheader	1	1	CLEAR
+40	10	40_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_10.lotheader	1	1	CLEAR
+40	11	40_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_11.lotheader	1	1	CLEAR
+40	12	40_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_12.lotheader	1	1	CLEAR
+40	13	40_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_13.lotheader	1	1	CLEAR
+40	14	40_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_14.lotheader	1	1	CLEAR
+40	15	40_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_15.lotheader	1	1	CLEAR
+40	16	40_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_16.lotheader	1	1	CLEAR
+40	17	40_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_17.lotheader	1	1	CLEAR
+40	18	40_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_18.lotheader	1	1	CLEAR
+40	19	40_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_19.lotheader	1	1	CLEAR
+40	20	40_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_20.lotheader	1	1	CLEAR
+40	21	40_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_21.lotheader	1	1	CLEAR
+40	22	40_22	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_22.lotheader	1	1	CLEAR
+40	23	40_23	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_23.lotheader	1	1	CLEAR
+40	24	40_24	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/40_24.lotheader	1	1	CLEAR
+40	38	40_38	RaccoonCityB42	RaccoonCityB42	RaccoonCity	common	common/media/maps/RaccoonCity/40_38.lotheader	1	1	CLEAR
+40	39	40_39	RaccoonCityB42	RaccoonCityB42	RaccoonCity	common	common/media/maps/RaccoonCity/40_39.lotheader	1	1	CLEAR
+40	40	40_40	RaccoonCityB42	RaccoonCityB42	RaccoonCity	common	common/media/maps/RaccoonCity/40_40.lotheader	1	1	CLEAR
+40	41	40_41	RaccoonCityB42	RaccoonCityB42	RaccoonCity	common	common/media/maps/RaccoonCity/40_41.lotheader	1	1	CLEAR
+40	55	40_55	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/40_55.lotheader	1	1	CLEAR
+40	56	40_56	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/40_56.lotheader	1	1	CLEAR
+40	57	40_57	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/40_57.lotheader	1	1	CLEAR
+40	58	40_58	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/40_58.lotheader	1	1	CLEAR
+40	59	40_59	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/40_59.lotheader	1	1	CLEAR
+41	0	41_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_0.lotheader	1	1	CLEAR
+41	1	41_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_1.lotheader	1	1	CLEAR
+41	2	41_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_2.lotheader	1	1	CLEAR
+41	3	41_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_3.lotheader	1	1	CLEAR
+41	4	41_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_4.lotheader	1	1	CLEAR
+41	5	41_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_5.lotheader	1	1	CLEAR
+41	6	41_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_6.lotheader	1	1	CLEAR
+41	7	41_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_7.lotheader	1	1	CLEAR
+41	8	41_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_8.lotheader	1	1	CLEAR
+41	9	41_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_9.lotheader	1	1	CLEAR
+41	10	41_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_10.lotheader	1	1	CLEAR
+41	11	41_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_11.lotheader	1	1	CLEAR
+41	12	41_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_12.lotheader	1	1	CLEAR
+41	13	41_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_13.lotheader	1	1	CLEAR
+41	14	41_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_14.lotheader	1	1	CLEAR
+41	15	41_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_15.lotheader	1	1	CLEAR
+41	16	41_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_16.lotheader	1	1	CLEAR
+41	17	41_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_17.lotheader	1	1	CLEAR
+41	18	41_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_18.lotheader	1	1	CLEAR
+41	19	41_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_19.lotheader	1	1	CLEAR
+41	20	41_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_20.lotheader	1	1	CLEAR
+41	21	41_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_21.lotheader	1	1	CLEAR
+41	22	41_22	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_22.lotheader	1	1	CLEAR
+41	23	41_23	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_23.lotheader	1	1	CLEAR
+41	24	41_24	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/41_24.lotheader	1	1	CLEAR
+41	51	41_51	fairhavenmap	Fairhaven	greenwood	common	common/media/maps/greenwood/41_51.lotheader	1	1	CLEAR
+41	52	41_52	fairhavenmap	Fairhaven	greenwood	common	common/media/maps/greenwood/41_52.lotheader	1	1	CLEAR
+41	55	41_55	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/41_55.lotheader	1	1	CLEAR
+41	56	41_56	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/41_56.lotheader	1	1	CLEAR
+41	57	41_57	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/41_57.lotheader	1	1	CLEAR
+41	58	41_58	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/41_58.lotheader	1	1	CLEAR
+41	59	41_59	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/41_59.lotheader	1	1	CLEAR
+42	0	42_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_0.lotheader	1	1	CLEAR
+42	1	42_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_1.lotheader	1	1	CLEAR
+42	2	42_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_2.lotheader	1	1	CLEAR
+42	3	42_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_3.lotheader	1	1	CLEAR
+42	4	42_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_4.lotheader	1	1	CLEAR
+42	5	42_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_5.lotheader	1	1	CLEAR
+42	6	42_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_6.lotheader	1	1	CLEAR
+42	7	42_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_7.lotheader	1	1	CLEAR
+42	8	42_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_8.lotheader	1	1	CLEAR
+42	9	42_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_9.lotheader	1	1	CLEAR
+42	10	42_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_10.lotheader	1	1	CLEAR
+42	11	42_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_11.lotheader	1	1	CLEAR
+42	12	42_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_12.lotheader	1	1	CLEAR
+42	13	42_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_13.lotheader	1	1	CLEAR
+42	14	42_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_14.lotheader	1	1	CLEAR
+42	15	42_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_15.lotheader	1	1	CLEAR
+42	16	42_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_16.lotheader	1	1	CLEAR
+42	17	42_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_17.lotheader	1	1	CLEAR
+42	18	42_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_18.lotheader	1	1	CLEAR
+42	19	42_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_19.lotheader	1	1	CLEAR
+42	20	42_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_20.lotheader	1	1	CLEAR
+42	21	42_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_21.lotheader	1	1	CLEAR
+42	22	42_22	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_22.lotheader	1	1	CLEAR
+42	23	42_23	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_23.lotheader	1	1	CLEAR
+42	24	42_24	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/42_24.lotheader	1	1	CLEAR
+42	51	42_51	fairhavenmap	Fairhaven	greenwood	common	common/media/maps/greenwood/42_51.lotheader	1	1	CLEAR
+42	52	42_52	fairhavenmap	Fairhaven	greenwood	common	common/media/maps/greenwood/42_52.lotheader	1	1	CLEAR
+42	55	42_55	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/42_55.lotheader	1	1	CLEAR
+42	56	42_56	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/42_56.lotheader	1	1	CLEAR
+42	57	42_57	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/42_57.lotheader	1	1	CLEAR
+42	58	42_58	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/42_58.lotheader	1	1	CLEAR
+42	59	42_59	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/42_59.lotheader	1	1	CLEAR
+43	0	43_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_0.lotheader	1	1	CLEAR
+43	1	43_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_1.lotheader	1	1	CLEAR
+43	2	43_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_2.lotheader	1	1	CLEAR
+43	3	43_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_3.lotheader	1	1	CLEAR
+43	4	43_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_4.lotheader	1	1	CLEAR
+43	5	43_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_5.lotheader	1	1	CLEAR
+43	6	43_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_6.lotheader	1	1	CLEAR
+43	7	43_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_7.lotheader	1	1	CLEAR
+43	8	43_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_8.lotheader	1	1	CLEAR
+43	9	43_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_9.lotheader	1	1	CLEAR
+43	10	43_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_10.lotheader	1	1	CLEAR
+43	11	43_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_11.lotheader	1	1	CLEAR
+43	12	43_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_12.lotheader	1	1	CLEAR
+43	13	43_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_13.lotheader	1	1	CLEAR
+43	14	43_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_14.lotheader	1	1	CLEAR
+43	15	43_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_15.lotheader	1	1	CLEAR
+43	16	43_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_16.lotheader	1	1	CLEAR
+43	17	43_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_17.lotheader	1	1	CLEAR
+43	18	43_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_18.lotheader	1	1	CLEAR
+43	19	43_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_19.lotheader	1	1	CLEAR
+43	20	43_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_20.lotheader	1	1	CLEAR
+43	21	43_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_21.lotheader	1	1	CLEAR
+43	22	43_22	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_22.lotheader	1	1	CLEAR
+43	23	43_23	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_23.lotheader	1	1	CLEAR
+43	24	43_24	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/43_24.lotheader	1	1	CLEAR
+43	55	43_55	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/43_55.lotheader	1	1	CLEAR
+43	56	43_56	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/43_56.lotheader	1	1	CLEAR
+43	57	43_57	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/43_57.lotheader	1	1	CLEAR
+43	58	43_58	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/43_58.lotheader	1	1	CLEAR
+43	59	43_59	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/43_59.lotheader	1	1	CLEAR
+44	0	44_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_0.lotheader	1	1	CLEAR
+44	1	44_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_1.lotheader	1	1	CLEAR
+44	2	44_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_2.lotheader	1	1	CLEAR
+44	3	44_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_3.lotheader	1	1	CLEAR
+44	4	44_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_4.lotheader	1	1	CLEAR
+44	5	44_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_5.lotheader	1	1	CLEAR
+44	6	44_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_6.lotheader	1	1	CLEAR
+44	7	44_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_7.lotheader	1	1	CLEAR
+44	8	44_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_8.lotheader	1	1	CLEAR
+44	9	44_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_9.lotheader	1	1	CLEAR
+44	10	44_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_10.lotheader	1	1	CLEAR
+44	11	44_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_11.lotheader	1	1	CLEAR
+44	12	44_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_12.lotheader	1	1	CLEAR
+44	13	44_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_13.lotheader	1	1	CLEAR
+44	14	44_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_14.lotheader	1	1	CLEAR
+44	15	44_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_15.lotheader	1	1	CLEAR
+44	16	44_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_16.lotheader	1	1	CLEAR
+44	17	44_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_17.lotheader	1	1	CLEAR
+44	18	44_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_18.lotheader	1	1	CLEAR
+44	19	44_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_19.lotheader	1	1	CLEAR
+44	20	44_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_20.lotheader	1	1	CLEAR
+44	21	44_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_21.lotheader	1	1	CLEAR
+44	22	44_22	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_22.lotheader	1	1	CLEAR
+44	23	44_23	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_23.lotheader	1	1	CLEAR
+44	24	44_24	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/44_24.lotheader	1	1	CLEAR
+44	29	44_29	Begonia_Town	Begonia_Town	Begonia_Town	common	common/media/maps/Begonia_Town/44_29.lotheader	1	1	CLEAR
+44	30	44_30	Begonia_Town	Begonia_Town	Begonia_Town	common	common/media/maps/Begonia_Town/44_30.lotheader	1	1	CLEAR
+44	55	44_55	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/44_55.lotheader	1	1	CLEAR
+44	56	44_56	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/44_56.lotheader	1	1	CLEAR
+44	57	44_57	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/44_57.lotheader	1	1	CLEAR
+44	58	44_58	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/44_58.lotheader	1	1	CLEAR
+44	59	44_59	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/44_59.lotheader	1	1	CLEAR
+45	0	45_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_0.lotheader	1	1	CLEAR
+45	1	45_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_1.lotheader	1	1	CLEAR
+45	2	45_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_2.lotheader	1	1	CLEAR
+45	3	45_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_3.lotheader	1	1	CLEAR
+45	4	45_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_4.lotheader	1	1	CLEAR
+45	5	45_5	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_5.lotheader	1	1	CLEAR
+45	6	45_6	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_6.lotheader	1	1	CLEAR
+45	7	45_7	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_7.lotheader	1	1	CLEAR
+45	8	45_8	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_8.lotheader	1	1	CLEAR
+45	9	45_9	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_9.lotheader	1	1	CLEAR
+45	10	45_10	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_10.lotheader	1	1	CLEAR
+45	11	45_11	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_11.lotheader	1	1	CLEAR
+45	12	45_12	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_12.lotheader	1	1	CLEAR
+45	13	45_13	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_13.lotheader	1	1	CLEAR
+45	14	45_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_14.lotheader	1	1	CLEAR
+45	15	45_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_15.lotheader	1	1	CLEAR
+45	16	45_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_16.lotheader	1	1	CLEAR
+45	17	45_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_17.lotheader	1	1	CLEAR
+45	18	45_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_18.lotheader	1	1	CLEAR
+45	19	45_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_19.lotheader	1	1	CLEAR
+45	20	45_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_20.lotheader	1	1	CLEAR
+45	21	45_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_21.lotheader	1	1	CLEAR
+45	22	45_22	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_22.lotheader	1	1	CLEAR
+45	23	45_23	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_23.lotheader	1	1	CLEAR
+45	24	45_24	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/45_24.lotheader	1	1	CLEAR
+45	29	45_29	Begonia_Town	Begonia_Town	Begonia_Town	common	common/media/maps/Begonia_Town/45_29.lotheader	1	1	CLEAR
+45	30	45_30	Begonia_Town	Begonia_Town	Begonia_Town	common	common/media/maps/Begonia_Town/45_30.lotheader	1	1	CLEAR
+45	55	45_55	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/45_55.lotheader	1	1	CLEAR
+45	56	45_56	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/45_56.lotheader	1	1	CLEAR
+45	57	45_57	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/45_57.lotheader	1	1	CLEAR
+45	58	45_58	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/45_58.lotheader	1	1	CLEAR
+45	59	45_59	BlackpineCounty	Blackpine County	BlackpineCounty	common	common/media/maps/BlackpineCounty/45_59.lotheader	1	1	CLEAR
+46	0	46_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/46_0.lotheader	1	1	CLEAR
+46	1	46_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/46_1.lotheader	1	1	CLEAR
+46	2	46_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/46_2.lotheader	1	1	CLEAR
+46	3	46_3	Louisville_River_Marina	Louisville River Marina	Louisville_River_Marina	common	common/media/maps/Louisville_River_Marina/46_3.lotheader	2	2	CROSS_MOD_CONFLICT
+46	3	46_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/46_3.lotheader	2	2	CROSS_MOD_CONFLICT
+46	14	46_14	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/46_14.lotheader	1	1	CLEAR
+46	15	46_15	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/46_15.lotheader	1	1	CLEAR
+46	16	46_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/46_16.lotheader	1	1	CLEAR
+46	17	46_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/46_17.lotheader	1	1	CLEAR
+46	18	46_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/46_18.lotheader	1	1	CLEAR
+46	19	46_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/46_19.lotheader	1	1	CLEAR
+46	20	46_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/46_20.lotheader	1	1	CLEAR
+46	21	46_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/46_21.lotheader	1	1	CLEAR
+46	22	46_22	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/46_22.lotheader	1	1	CLEAR
+46	23	46_23	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/46_23.lotheader	1	1	CLEAR
+46	24	46_24	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/46_24.lotheader	1	1	CLEAR
+46	29	46_29	Begonia_Town	Begonia_Town	Begonia_Town	common	common/media/maps/Begonia_Town/46_29.lotheader	1	1	CLEAR
+46	30	46_30	Begonia_Town	Begonia_Town	Begonia_Town	common	common/media/maps/Begonia_Town/46_30.lotheader	1	1	CLEAR
+47	0	47_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/47_0.lotheader	1	1	CLEAR
+47	1	47_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/47_1.lotheader	1	1	CLEAR
+47	2	47_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/47_2.lotheader	1	1	CLEAR
+47	3	47_3	Louisville_River_Marina	Louisville River Marina	Louisville_River_Marina	common	common/media/maps/Louisville_River_Marina/47_3.lotheader	2	2	CROSS_MOD_CONFLICT
+47	3	47_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/47_3.lotheader	2	2	CROSS_MOD_CONFLICT
+47	4	47_4	Louisville_River_Marina	Louisville River Marina	Louisville_River_Marina	common	common/media/maps/Louisville_River_Marina/47_4.lotheader	1	1	CLEAR
+47	16	47_16	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/47_16.lotheader	1	1	CLEAR
+47	17	47_17	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/47_17.lotheader	1	1	CLEAR
+47	18	47_18	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/47_18.lotheader	1	1	CLEAR
+47	19	47_19	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/47_19.lotheader	1	1	CLEAR
+47	20	47_20	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/47_20.lotheader	1	1	CLEAR
+47	21	47_21	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/47_21.lotheader	1	1	CLEAR
+47	22	47_22	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/47_22.lotheader	1	1	CLEAR
+47	23	47_23	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/47_23.lotheader	1	1	CLEAR
+47	24	47_24	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/47_24.lotheader	1	1	CLEAR
+47	29	47_29	Begonia_Town	Begonia_Town	Begonia_Town	common	common/media/maps/Begonia_Town/47_29.lotheader	1	1	CLEAR
+47	30	47_30	Begonia_Town	Begonia_Town	Begonia_Town	common	common/media/maps/Begonia_Town/47_30.lotheader	1	1	CLEAR
+48	0	48_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/48_0.lotheader	1	1	CLEAR
+48	1	48_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/48_1.lotheader	1	1	CLEAR
+48	2	48_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/48_2.lotheader	1	1	CLEAR
+48	3	48_3	Louisville_River_Marina	Louisville River Marina	Louisville_River_Marina	common	common/media/maps/Louisville_River_Marina/48_3.lotheader	2	2	CROSS_MOD_CONFLICT
+48	3	48_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/48_3.lotheader	2	2	CROSS_MOD_CONFLICT
+48	4	48_4	Louisville_River_Marina	Louisville River Marina	Louisville_River_Marina	common	common/media/maps/Louisville_River_Marina/48_4.lotheader	1	1	CLEAR
+48	29	48_29	Begonia_Town	Begonia_Town	Begonia_Town	common	common/media/maps/Begonia_Town/48_29.lotheader	1	1	CLEAR
+48	30	48_30	Begonia_Town	Begonia_Town	Begonia_Town	common	common/media/maps/Begonia_Town/48_30.lotheader	1	1	CLEAR
+49	0	49_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/49_0.lotheader	1	1	CLEAR
+49	1	49_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/49_1.lotheader	1	1	CLEAR
+49	2	49_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/49_2.lotheader	1	1	CLEAR
+49	3	49_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/49_3.lotheader	1	1	CLEAR
+49	4	49_4	Louisville_River_Marina	Louisville River Marina	Louisville_River_Marina	common	common/media/maps/Louisville_River_Marina/49_4.lotheader	1	1	CLEAR
+49	23	49_23	HazelnutManor	Hazelnut Manor	Hazelnut Manor	common	common/media/maps/Hazelnut Manor/49_23.lotheader	1	1	CLEAR
+49	24	49_24	HazelnutManor	Hazelnut Manor	Hazelnut Manor	common	common/media/maps/Hazelnut Manor/49_24.lotheader	1	1	CLEAR
+50	0	50_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/50_0.lotheader	1	1	CLEAR
+50	1	50_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/50_1.lotheader	1	1	CLEAR
+50	2	50_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/50_2.lotheader	1	1	CLEAR
+50	3	50_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/50_3.lotheader	1	1	CLEAR
+50	23	50_23	HazelnutManor	Hazelnut Manor	Hazelnut Manor	common	common/media/maps/Hazelnut Manor/50_23.lotheader	1	1	CLEAR
+50	24	50_24	HazelnutManor	Hazelnut Manor	Hazelnut Manor	common	common/media/maps/Hazelnut Manor/50_24.lotheader	1	1	CLEAR
+50	43	50_43	littletown	LittleTown	littletown	common	common/media/maps/littletown/50_43.lotheader	1	1	CLEAR
+50	44	50_44	littletown	LittleTown	littletown	common	common/media/maps/littletown/50_44.lotheader	1	1	CLEAR
+51	0	51_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/51_0.lotheader	1	1	CLEAR
+51	1	51_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/51_1.lotheader	1	1	CLEAR
+51	2	51_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/51_2.lotheader	1	1	CLEAR
+51	3	51_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/51_3.lotheader	1	1	CLEAR
+51	4	51_4	Louisville_Riverboat	Louisville_Riverboat	Louisville_Riverboat	common	common/media/maps/Louisville_Riverboat/51_4.lotheader	1	1	CLEAR
+51	43	51_43	littletown	LittleTown	littletown	common	common/media/maps/littletown/51_43.lotheader	1	1	CLEAR
+51	44	51_44	littletown	LittleTown	littletown	common	common/media/maps/littletown/51_44.lotheader	1	1	CLEAR
+52	0	52_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/52_0.lotheader	1	1	CLEAR
+52	1	52_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/52_1.lotheader	1	1	CLEAR
+52	2	52_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/52_2.lotheader	1	1	CLEAR
+52	3	52_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/52_3.lotheader	1	1	CLEAR
+52	15	52_15	Louisville_Quarantine_Zone	Louisville Quarantine Zone	Louisville_Quarantine_Zone	common	common/media/maps/Louisville_Quarantine_Zone/52_15.lotheader	1	1	CLEAR
+52	16	52_16	Louisville_Quarantine_Zone	Louisville Quarantine Zone	Louisville_Quarantine_Zone	common	common/media/maps/Louisville_Quarantine_Zone/52_16.lotheader	1	1	CLEAR
+53	0	53_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/53_0.lotheader	1	1	CLEAR
+53	1	53_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/53_1.lotheader	1	1	CLEAR
+53	2	53_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/53_2.lotheader	1	1	CLEAR
+53	3	53_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/53_3.lotheader	1	1	CLEAR
+53	4	53_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/53_4.lotheader	1	1	CLEAR
+53	15	53_15	Louisville_Quarantine_Zone	Louisville Quarantine Zone	Louisville_Quarantine_Zone	common	common/media/maps/Louisville_Quarantine_Zone/53_15.lotheader	1	1	CLEAR
+53	16	53_16	Louisville_Quarantine_Zone	Louisville Quarantine Zone	Louisville_Quarantine_Zone	common	common/media/maps/Louisville_Quarantine_Zone/53_16.lotheader	1	1	CLEAR
+54	0	54_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/54_0.lotheader	1	1	CLEAR
+54	1	54_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/54_1.lotheader	1	1	CLEAR
+54	2	54_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/54_2.lotheader	1	1	CLEAR
+54	3	54_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/54_3.lotheader	1	1	CLEAR
+54	4	54_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/54_4.lotheader	1	1	CLEAR
+54	7	54_7	Fort_Boonesborough	Fort Boonesborough	Fort_Boonesborough	common	common/media/maps/Fort_Boonesborough/54_7.lotheader	1	1	CLEAR
+54	15	54_15	Louisville_Quarantine_Zone	Louisville Quarantine Zone	Louisville_Quarantine_Zone	common	common/media/maps/Louisville_Quarantine_Zone/54_15.lotheader	1	1	CLEAR
+54	16	54_16	Louisville_Quarantine_Zone	Louisville Quarantine Zone	Louisville_Quarantine_Zone	common	common/media/maps/Louisville_Quarantine_Zone/54_16.lotheader	1	1	CLEAR
+55	0	55_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/55_0.lotheader	1	1	CLEAR
+55	1	55_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/55_1.lotheader	1	1	CLEAR
+55	2	55_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/55_2.lotheader	1	1	CLEAR
+55	3	55_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/55_3.lotheader	1	1	CLEAR
+55	4	55_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/55_4.lotheader	1	1	CLEAR
+55	7	55_7	Fort_Boonesborough	Fort Boonesborough	Fort_Boonesborough	common	common/media/maps/Fort_Boonesborough/55_7.lotheader	1	1	CLEAR
+56	0	56_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/56_0.lotheader	1	1	CLEAR
+56	1	56_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/56_1.lotheader	1	1	CLEAR
+56	2	56_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/56_2.lotheader	1	1	CLEAR
+56	3	56_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/56_3.lotheader	1	1	CLEAR
+56	4	56_4	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/56_4.lotheader	1	1	CLEAR
+56	7	56_7	Fort_Boonesborough	Fort Boonesborough	Fort_Boonesborough	common	common/media/maps/Fort_Boonesborough/56_7.lotheader	1	1	CLEAR
+56	22	56_22	WILDSTEEL	WILDSTEEL	WILDSTEEL	common	common/media/maps/WILDSTEEL/56_22.lotheader	1	1	CLEAR
+56	23	56_23	WILDSTEEL	WILDSTEEL	WILDSTEEL	common	common/media/maps/WILDSTEEL/56_23.lotheader	1	1	CLEAR
+57	0	57_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/57_0.lotheader	1	1	CLEAR
+57	1	57_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/57_1.lotheader	1	1	CLEAR
+57	2	57_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/57_2.lotheader	1	1	CLEAR
+57	3	57_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/57_3.lotheader	1	1	CLEAR
+57	22	57_22	WILDSTEEL	WILDSTEEL	WILDSTEEL	common	common/media/maps/WILDSTEEL/57_22.lotheader	1	1	CLEAR
+57	23	57_23	WILDSTEEL	WILDSTEEL	WILDSTEEL	common	common/media/maps/WILDSTEEL/57_23.lotheader	1	1	CLEAR
+58	0	58_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/58_0.lotheader	1	1	CLEAR
+58	1	58_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/58_1.lotheader	1	1	CLEAR
+58	2	58_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/58_2.lotheader	1	1	CLEAR
+58	3	58_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/58_3.lotheader	1	1	CLEAR
+59	0	59_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/59_0.lotheader	1	1	CLEAR
+59	1	59_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/59_1.lotheader	1	1	CLEAR
+59	2	59_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/59_2.lotheader	1	1	CLEAR
+59	3	59_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/59_3.lotheader	1	1	CLEAR
+60	0	60_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/60_0.lotheader	1	1	CLEAR
+60	1	60_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/60_1.lotheader	1	1	CLEAR
+60	2	60_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/60_2.lotheader	1	1	CLEAR
+60	3	60_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/60_3.lotheader	1	1	CLEAR
+61	0	61_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/61_0.lotheader	1	1	CLEAR
+61	1	61_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/61_1.lotheader	1	1	CLEAR
+61	2	61_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/61_2.lotheader	1	1	CLEAR
+61	3	61_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/61_3.lotheader	1	1	CLEAR
+62	0	62_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/62_0.lotheader	1	1	CLEAR
+62	1	62_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/62_1.lotheader	1	1	CLEAR
+62	2	62_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/62_2.lotheader	1	1	CLEAR
+62	3	62_3	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/62_3.lotheader	1	1	CLEAR
+63	0	63_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/63_0.lotheader	1	1	CLEAR
+63	1	63_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/63_1.lotheader	1	1	CLEAR
+63	2	63_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/63_2.lotheader	1	1	CLEAR
+64	0	64_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/64_0.lotheader	1	1	CLEAR
+64	1	64_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/64_1.lotheader	1	1	CLEAR
+64	2	64_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/64_2.lotheader	1	1	CLEAR
+65	0	65_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/65_0.lotheader	1	1	CLEAR
+65	1	65_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/65_1.lotheader	1	1	CLEAR
+65	2	65_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/65_2.lotheader	1	1	CLEAR
+66	0	66_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/66_0.lotheader	1	1	CLEAR
+66	1	66_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/66_1.lotheader	1	1	CLEAR
+66	2	66_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/66_2.lotheader	1	1	CLEAR
+67	0	67_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/67_0.lotheader	1	1	CLEAR
+67	1	67_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/67_1.lotheader	1	1	CLEAR
+67	2	67_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/67_2.lotheader	1	1	CLEAR
+68	0	68_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/68_0.lotheader	1	1	CLEAR
+68	1	68_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/68_1.lotheader	1	1	CLEAR
+68	2	68_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/68_2.lotheader	1	1	CLEAR
+69	0	69_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/69_0.lotheader	1	1	CLEAR
+69	1	69_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/69_1.lotheader	1	1	CLEAR
+69	2	69_2	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/69_2.lotheader	1	1	CLEAR
+70	0	70_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/70_0.lotheader	1	1	CLEAR
+70	1	70_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/70_1.lotheader	1	1	CLEAR
+71	0	71_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/71_0.lotheader	1	1	CLEAR
+71	1	71_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/71_1.lotheader	1	1	CLEAR
+72	0	72_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/72_0.lotheader	1	1	CLEAR
+72	1	72_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/72_1.lotheader	1	1	CLEAR
+73	0	73_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/73_0.lotheader	1	1	CLEAR
+73	1	73_1	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/73_1.lotheader	1	1	CLEAR
+74	0	74_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/74_0.lotheader	1	1	CLEAR
+75	0	75_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/75_0.lotheader	1	1	CLEAR
+76	0	76_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/76_0.lotheader	1	1	CLEAR
+77	0	77_0	PIE42	PIE42	PIElots	common	common/media/maps/PIElots/77_0.lotheader	1	1	CLEAR
+87	46	87_46	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/87_46.lotheader	1	1	CLEAR
+87	47	87_47	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/87_47.lotheader	1	1	CLEAR
+87	48	87_48	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/87_48.lotheader	1	1	CLEAR
+87	49	87_49	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/87_49.lotheader	1	1	CLEAR
+88	46	88_46	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/88_46.lotheader	1	1	CLEAR
+88	47	88_47	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/88_47.lotheader	1	1	CLEAR
+88	48	88_48	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/88_48.lotheader	1	1	CLEAR
+88	49	88_49	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/88_49.lotheader	1	1	CLEAR
+89	46	89_46	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/89_46.lotheader	1	1	CLEAR
+89	47	89_47	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/89_47.lotheader	1	1	CLEAR
+89	48	89_48	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/89_48.lotheader	1	1	CLEAR
+89	49	89_49	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/89_49.lotheader	1	1	CLEAR
+90	46	90_46	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/90_46.lotheader	1	1	CLEAR
+90	47	90_47	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/90_47.lotheader	1	1	CLEAR
+90	48	90_48	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/90_48.lotheader	1	1	CLEAR
+90	49	90_49	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/90_49.lotheader	1	1	CLEAR
+91	46	91_46	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/91_46.lotheader	1	1	CLEAR
+91	47	91_47	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/91_47.lotheader	1	1	CLEAR
+91	48	91_48	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/91_48.lotheader	1	1	CLEAR
+91	49	91_49	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/91_49.lotheader	1	1	CLEAR
+92	46	92_46	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/92_46.lotheader	1	1	CLEAR
+92	47	92_47	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/92_47.lotheader	1	1	CLEAR
+92	48	92_48	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/92_48.lotheader	1	1	CLEAR
+92	49	92_49	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/92_49.lotheader	1	1	CLEAR
+93	46	93_46	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/93_46.lotheader	1	1	CLEAR
+93	47	93_47	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/93_47.lotheader	1	1	CLEAR
+93	48	93_48	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/93_48.lotheader	1	1	CLEAR
+93	49	93_49	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/93_49.lotheader	1	1	CLEAR
+94	46	94_46	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/94_46.lotheader	1	1	CLEAR
+94	47	94_47	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/94_47.lotheader	1	1	CLEAR
+94	48	94_48	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/94_48.lotheader	1	1	CLEAR
+94	49	94_49	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/94_49.lotheader	1	1	CLEAR
+95	46	95_46	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/95_46.lotheader	1	1	CLEAR
+95	47	95_47	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/95_47.lotheader	1	1	CLEAR
+95	48	95_48	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/95_48.lotheader	1	1	CLEAR
+95	49	95_49	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/95_49.lotheader	1	1	CLEAR
+96	46	96_46	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/96_46.lotheader	1	1	CLEAR
+96	47	96_47	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/96_47.lotheader	1	1	CLEAR
+96	48	96_48	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/96_48.lotheader	1	1	CLEAR
+96	49	96_49	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/96_49.lotheader	1	1	CLEAR
+97	46	97_46	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/97_46.lotheader	1	1	CLEAR
+97	47	97_47	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/97_47.lotheader	1	1	CLEAR
+97	48	97_48	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/97_48.lotheader	1	1	CLEAR
+97	49	97_49	PROJECTRVInterior42	modPROJECTRVInterior	map_distanciado	common	common/media/maps/map_distanciado/97_49.lotheader	1	1	CLEAR
+101	100	101_100	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/101_100.lotheader	1	1	CLEAR
+101	101	101_101	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/101_101.lotheader	1	1	CLEAR
+101	102	101_102	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/101_102.lotheader	1	1	CLEAR
+101	103	101_103	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/101_103.lotheader	1	1	CLEAR
+101	104	101_104	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/101_104.lotheader	1	1	CLEAR
+101	105	101_105	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/101_105.lotheader	1	1	CLEAR
+101	106	101_106	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/101_106.lotheader	1	1	CLEAR
+101	107	101_107	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/101_107.lotheader	1	1	CLEAR
+101	108	101_108	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/101_108.lotheader	1	1	CLEAR
+101	109	101_109	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/101_109.lotheader	1	1	CLEAR
+101	110	101_110	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/101_110.lotheader	1	1	CLEAR
+102	100	102_100	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/102_100.lotheader	1	1	CLEAR
+102	101	102_101	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/102_101.lotheader	1	1	CLEAR
+102	102	102_102	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/102_102.lotheader	1	1	CLEAR
+102	103	102_103	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/102_103.lotheader	1	1	CLEAR
+102	104	102_104	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/102_104.lotheader	1	1	CLEAR
+102	105	102_105	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/102_105.lotheader	1	1	CLEAR
+102	106	102_106	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/102_106.lotheader	1	1	CLEAR
+102	107	102_107	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/102_107.lotheader	1	1	CLEAR
+102	108	102_108	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/102_108.lotheader	1	1	CLEAR
+102	109	102_109	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/102_109.lotheader	1	1	CLEAR
+102	110	102_110	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/102_110.lotheader	1	1	CLEAR
+103	100	103_100	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/103_100.lotheader	1	1	CLEAR
+103	101	103_101	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/103_101.lotheader	1	1	CLEAR
+103	102	103_102	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/103_102.lotheader	1	1	CLEAR
+103	103	103_103	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/103_103.lotheader	1	1	CLEAR
+103	104	103_104	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/103_104.lotheader	1	1	CLEAR
+103	105	103_105	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/103_105.lotheader	1	1	CLEAR
+103	106	103_106	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/103_106.lotheader	1	1	CLEAR
+103	107	103_107	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/103_107.lotheader	1	1	CLEAR
+103	108	103_108	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/103_108.lotheader	1	1	CLEAR
+103	109	103_109	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/103_109.lotheader	1	1	CLEAR
+103	110	103_110	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/103_110.lotheader	1	1	CLEAR
+104	100	104_100	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/104_100.lotheader	1	1	CLEAR
+104	101	104_101	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/104_101.lotheader	1	1	CLEAR
+104	102	104_102	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/104_102.lotheader	1	1	CLEAR
+104	103	104_103	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/104_103.lotheader	1	1	CLEAR
+104	104	104_104	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/104_104.lotheader	1	1	CLEAR
+104	105	104_105	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/104_105.lotheader	1	1	CLEAR
+104	106	104_106	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/104_106.lotheader	1	1	CLEAR
+104	107	104_107	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/104_107.lotheader	1	1	CLEAR
+104	108	104_108	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/104_108.lotheader	1	1	CLEAR
+104	109	104_109	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/104_109.lotheader	1	1	CLEAR
+104	110	104_110	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/104_110.lotheader	1	1	CLEAR
+105	100	105_100	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/105_100.lotheader	1	1	CLEAR
+105	101	105_101	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/105_101.lotheader	1	1	CLEAR
+105	102	105_102	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/105_102.lotheader	1	1	CLEAR
+105	103	105_103	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/105_103.lotheader	1	1	CLEAR
+105	104	105_104	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/105_104.lotheader	1	1	CLEAR
+105	105	105_105	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/105_105.lotheader	1	1	CLEAR
+105	106	105_106	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/105_106.lotheader	1	1	CLEAR
+105	107	105_107	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/105_107.lotheader	1	1	CLEAR
+105	108	105_108	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/105_108.lotheader	1	1	CLEAR
+105	109	105_109	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/105_109.lotheader	1	1	CLEAR
+105	110	105_110	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/105_110.lotheader	1	1	CLEAR
+106	100	106_100	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/106_100.lotheader	1	1	CLEAR
+106	101	106_101	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/106_101.lotheader	1	1	CLEAR
+106	102	106_102	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/106_102.lotheader	1	1	CLEAR
+106	103	106_103	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/106_103.lotheader	1	1	CLEAR
+106	104	106_104	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/106_104.lotheader	1	1	CLEAR
+106	105	106_105	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/106_105.lotheader	1	1	CLEAR
+106	106	106_106	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/106_106.lotheader	1	1	CLEAR
+106	107	106_107	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/106_107.lotheader	1	1	CLEAR
+106	108	106_108	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/106_108.lotheader	1	1	CLEAR
+106	109	106_109	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/106_109.lotheader	1	1	CLEAR
+106	110	106_110	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/106_110.lotheader	1	1	CLEAR
+107	100	107_100	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/107_100.lotheader	1	1	CLEAR
+107	101	107_101	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/107_101.lotheader	1	1	CLEAR
+107	102	107_102	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/107_102.lotheader	1	1	CLEAR
+107	103	107_103	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/107_103.lotheader	1	1	CLEAR
+107	104	107_104	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/107_104.lotheader	1	1	CLEAR
+107	105	107_105	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/107_105.lotheader	1	1	CLEAR
+107	106	107_106	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/107_106.lotheader	1	1	CLEAR
+107	107	107_107	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/107_107.lotheader	1	1	CLEAR
+107	108	107_108	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/107_108.lotheader	1	1	CLEAR
+107	109	107_109	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/107_109.lotheader	1	1	CLEAR
+107	110	107_110	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/107_110.lotheader	1	1	CLEAR
+108	100	108_100	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/108_100.lotheader	1	1	CLEAR
+108	101	108_101	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/108_101.lotheader	1	1	CLEAR
+108	102	108_102	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/108_102.lotheader	1	1	CLEAR
+108	103	108_103	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/108_103.lotheader	1	1	CLEAR
+108	104	108_104	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/108_104.lotheader	1	1	CLEAR
+108	105	108_105	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/108_105.lotheader	1	1	CLEAR
+108	106	108_106	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/108_106.lotheader	1	1	CLEAR
+108	107	108_107	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/108_107.lotheader	1	1	CLEAR
+108	108	108_108	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/108_108.lotheader	1	1	CLEAR
+108	109	108_109	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/108_109.lotheader	1	1	CLEAR
+108	110	108_110	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/108_110.lotheader	1	1	CLEAR
+109	100	109_100	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/109_100.lotheader	1	1	CLEAR
+109	101	109_101	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/109_101.lotheader	1	1	CLEAR
+109	102	109_102	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/109_102.lotheader	1	1	CLEAR
+109	103	109_103	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/109_103.lotheader	1	1	CLEAR
+109	104	109_104	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/109_104.lotheader	1	1	CLEAR
+109	105	109_105	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/109_105.lotheader	1	1	CLEAR
+109	106	109_106	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/109_106.lotheader	1	1	CLEAR
+109	107	109_107	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/109_107.lotheader	1	1	CLEAR
+109	108	109_108	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/109_108.lotheader	1	1	CLEAR
+109	109	109_109	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/109_109.lotheader	1	1	CLEAR
+109	110	109_110	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/109_110.lotheader	1	1	CLEAR
+110	100	110_100	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/110_100.lotheader	1	1	CLEAR
+110	101	110_101	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/110_101.lotheader	1	1	CLEAR
+110	102	110_102	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/110_102.lotheader	1	1	CLEAR
+110	103	110_103	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/110_103.lotheader	1	1	CLEAR
+110	104	110_104	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/110_104.lotheader	1	1	CLEAR
+110	105	110_105	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/110_105.lotheader	1	1	CLEAR
+110	106	110_106	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/110_106.lotheader	1	1	CLEAR
+110	107	110_107	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/110_107.lotheader	1	1	CLEAR
+110	108	110_108	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/110_108.lotheader	1	1	CLEAR
+110	109	110_109	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/110_109.lotheader	1	1	CLEAR
+110	110	110_110	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/110_110.lotheader	1	1	CLEAR
+111	100	111_100	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/111_100.lotheader	1	1	CLEAR
+111	101	111_101	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/111_101.lotheader	1	1	CLEAR
+111	102	111_102	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/111_102.lotheader	1	1	CLEAR
+111	103	111_103	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/111_103.lotheader	1	1	CLEAR
+111	104	111_104	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/111_104.lotheader	1	1	CLEAR
+111	105	111_105	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/111_105.lotheader	1	1	CLEAR
+111	106	111_106	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/111_106.lotheader	1	1	CLEAR
+111	107	111_107	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/111_107.lotheader	1	1	CLEAR
+111	108	111_108	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/111_108.lotheader	1	1	CLEAR
+111	109	111_109	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/111_109.lotheader	1	1	CLEAR
+111	110	111_110	RVInteriorExpansion	rvupdate	rvupdate	common	common/media/maps/rvupdate/111_110.lotheader	1	1	CLEAR
+117	113	117_113	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/117_113.lotheader	1	1	CLEAR
+117	114	117_114	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/117_114.lotheader	1	1	CLEAR
+117	115	117_115	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/117_115.lotheader	1	1	CLEAR
+117	116	117_116	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/117_116.lotheader	1	1	CLEAR
+117	117	117_117	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/117_117.lotheader	1	1	CLEAR
+117	118	117_118	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/117_118.lotheader	1	1	CLEAR
+118	113	118_113	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/118_113.lotheader	1	1	CLEAR
+118	114	118_114	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/118_114.lotheader	1	1	CLEAR
+118	115	118_115	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/118_115.lotheader	1	1	CLEAR
+118	116	118_116	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/118_116.lotheader	1	1	CLEAR
+118	117	118_117	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/118_117.lotheader	1	1	CLEAR
+118	118	118_118	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/118_118.lotheader	1	1	CLEAR
+119	113	119_113	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/119_113.lotheader	1	1	CLEAR
+119	114	119_114	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/119_114.lotheader	1	1	CLEAR
+119	115	119_115	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/119_115.lotheader	1	1	CLEAR
+119	116	119_116	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/119_116.lotheader	1	1	CLEAR
+119	117	119_117	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/119_117.lotheader	1	1	CLEAR
+119	118	119_118	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/119_118.lotheader	1	1	CLEAR
+120	113	120_113	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/120_113.lotheader	1	1	CLEAR
+120	114	120_114	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/120_114.lotheader	1	1	CLEAR
+120	115	120_115	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/120_115.lotheader	1	1	CLEAR
+120	116	120_116	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/120_116.lotheader	1	1	CLEAR
+120	117	120_117	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/120_117.lotheader	1	1	CLEAR
+120	118	120_118	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/120_118.lotheader	1	1	CLEAR
+121	113	121_113	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/121_113.lotheader	1	1	CLEAR
+121	114	121_114	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/121_114.lotheader	1	1	CLEAR
+121	115	121_115	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/121_115.lotheader	1	1	CLEAR
+121	116	121_116	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/121_116.lotheader	1	1	CLEAR
+121	117	121_117	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/121_117.lotheader	1	1	CLEAR
+121	118	121_118	RVInteriorExpansionPart2	rvupdate2	rv2	common	common/media/maps/rv2/121_118.lotheader	1	1	CLEAR

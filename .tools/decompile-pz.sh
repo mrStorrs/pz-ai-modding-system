@@ -13,9 +13,9 @@
 # grepped/read directly.
 set -euo pipefail
 
-PZ_ROOT="${PZ_ROOT:-/home/cjstorrs/games/Project Zomboid Linux 42.19.0/game/projectzomboid}"
+PZ_ROOT="${PZ_ROOT:-/home/cjstorrs/games/Project Zomboid Linux 42.20.0/game/projectzomboid}"
 PZ_JAR="${PZ_JAR:-$PZ_ROOT/projectzomboid.jar}"
-PZ_VERSION="${PZ_VERSION:-42.19}"
+PZ_VERSION="${PZ_VERSION:-42.20}"
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REF_DIR="$SCRIPT_DIR/../.pz-reference/$PZ_VERSION"
 VINEFLOWER="${VINEFLOWER_JAR:-$SCRIPT_DIR/vineflower.jar}"

@@ -1,6 +1,6 @@
 ---
 name: zomboid-review
-description: Review gate for Project Zomboid mod code changes, bug fixes, live installs, and post-change audits. Use after any code changes made while using zomboid-modding or zomboid-bug-fixing; use when asked to review or audit Project Zomboid mod changes; use for B42 packaging, Lua/Kahlua API, Java bridge calls, loot/EasyDistro, save data, scripts, sandbox options, UI, world entities, economy, or live-install risk checks.
+description: Review gate for Project Zomboid B42.20 mod code changes, bug fixes, live installs, and post-change audits. Use after any code changes made while using zomboid-modding or zomboid-bug-fixing; use when asked to review or audit Project Zomboid mod changes; use for B42.20 packaging, Lua/Kahlua API, Java bridge calls, loot/EasyDistro, save data, scripts, sandbox options, UI, world entities, economy, or live-install risk checks.
 ---
 
 # Zomboid Review
@@ -13,11 +13,12 @@ When invoked from `zomboid-modding` or `zomboid-bug-fixing` after implementation
 
 Run these checks before domain-specific review:
 
+- Read and apply `b42.20-codex-instructions.md`; review evidence only from the active B42.20 game and user-data tree.
 - Identify the changed files: `git status --short`, `git diff --stat`, and targeted `git diff` in the mod repo. Preserve unrelated user changes.
-- Identify the mod root, mod ID, active version folder, and live install path. Inspect versioned `mod.info` such as `42/mod.info` or `42.12/mod.info`; do not rely only on root metadata.
+- Identify the mod root, mod ID, version folder selected by B42.20, and live install path. Prefer `42.20/mod.info`, but recognize a compatible generic `42/mod.info` fallback; do not rely only on root metadata.
 - For third-party or Workshop-backed mods, verify that the local Workshop source was checked before local patching or closeout. Inspect `/media/cjstorrs/windows/Program Files (x86)/Steam/steamapps/workshop/content/108600`, match by `mod.info` `id=`, active version folder, and relevant files, and flag the change if Workshop already contains the compatible fix/update.
-- For project-backed live installs, verify the live entry is a direct child symlink under `/media/cjstorrs/windows/Users/cjsto/Zomboid/mods`, its name matches the project folder casing, `readlink -f` resolves to the project mod folder, and the symlink resolves to the expected versioned `mod.info` and assets. If a project-backed live entry must be repaired, use `~/projects/game-mods/zomboid/link-project-mod.sh <modFolder>`.
-- Inspect the latest relevant logs before declaring success. Prefer `~/Zomboid/console.txt`; also check `/media/cjstorrs/windows/Users/cjsto/Zomboid/console.txt` if that is the active log location.
+- For project-backed live installs, verify the live entry is a direct child symlink under `/home/cjstorrs/games/Project Zomboid Linux 42.20.0/user-data/Zomboid/mods`, its name matches the project folder casing, `readlink -f` resolves to the project mod folder, and the symlink resolves to the expected versioned `mod.info` and assets. If a project-backed live entry must be repaired, use `~/projects/game-mods/zomboid/link-project-mod.sh <modFolder>`.
+- Inspect the latest relevant logs before declaring success. Prefer `/home/cjstorrs/games/Project Zomboid Linux 42.20.0/user-data/Zomboid/console.txt`.
 - Search logs for families of errors, not one line only: `ERROR`, `Exception`, `stack traceback`, `attempted index`, `No implementation found`, `Recipe.Load`, `ItemPickInfo`, `unknown SandboxOption`, `Could not assign`, `cannot get ID`.
 - Run Lua syntax checks for changed Lua files when possible, but treat `lua5.1 loadfile` as syntax-only. It does not validate PZ globals, Kahlua userdata, Java method signatures, event payloads, or live render behavior.
 - Check line endings in touched hunks for Windows-origin mods. Mixed CRLF/LF or broad newline churn is a review finding unless intentionally normalized.
@@ -26,7 +27,7 @@ Run these checks before domain-specific review:
 
 Check packaging and enablement when files, installs, or mod lists changed:
 
-- Confirm required version folders and companion folders: `42/`, `42.12/`, `Common/`, or `common/` as appropriate for the mod.
+- Confirm the B42.20-selected version folder and lowercase `common/` companion folder. Require `42.20/` for new or B42.20-specific CJS payloads; allow a verified generic `42/` fallback from an otherwise compatible upstream mod.
 - Confirm poster/icon paths exist relative to the `mod.info` that PZ will actually load.
 - Verify dependency IDs and B42 `require=\ModID` syntax against installed mod IDs.
 - Check every active load point touched by the task: save `mods.txt`, `mods/default.txt`, and `Lua/pz_modlist_settings.cfg`. Do not use `saved_builds.txt` as a mod list.
@@ -51,7 +52,8 @@ Run only the probes relevant to the changed files and user request.
 
 ### Loot, EasyDistro, Capsules, Wrappers
 
-- If the task touches loot distribution, EasyDistro, spawn rates, zombie/container loot, capsules, packs, boxes, wrappers, or contained item definitions, read and apply `/home/cjstorrs/projects/game-mods/zomboid/.codex/instructions/easy-distributions.md`.
+- Read and apply `/home/cjstorrs/projects/game-mods/zomboid/.codex/instructions/easy-distributions.md` only when reviewing task changes that modify an item's loot distribution, such as adding or removing that item from loot tables or changing how often it appears there.
+- Do not invoke the guide merely because an installed or reviewed mod contains capsules, packs, boxes, wrappers, recipes, contained item definitions, or other spawning code.
 - Audit all active spawn paths in repo and live install: versioned folders, root `media`, `ProceduralDistributions`, `SuburbsDistributions`, `VehicleDistributions`, `OnFillContainer`, zombie inventory, EasyDistro calls, and custom roll code.
 - For wrapper/capsule loot, prove raw contents cannot spawn directly. Check item tags, display categories, memento tags, fuel/tinder tags, old root loot files, and upstream compatibility patches.
 - Treat EasyDistro injection logs as necessary but insufficient. Review effective probability after sandbox/category multipliers.
@@ -123,5 +125,5 @@ If no findings are found, say so clearly and list the checks actually performed.
 ## Instruction Maintenance
 
 - If the work reveals a new recurring Project Zomboid problem, compatibility pitfall, validation pattern, or durable fix that future sessions should remember, update the relevant workspace or skill instructions while the context is fresh.
-- Keep durable generic guidance in `b42.19-codex-instructions.md`; do not recreate one-off current-state notes unless the user explicitly asks.
+- Keep durable generic guidance in `b42.20-codex-instructions.md`; do not recreate one-off current-state notes unless the user explicitly asks.
 - Keep instruction updates concise, evidence-backed, and separate from unrelated refactors or historical cleanup.

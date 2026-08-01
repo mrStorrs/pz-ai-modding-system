@@ -112,14 +112,19 @@ Eagle Eyed, Short Sighted, corrective glasses, and active optics can further
 change effective sight. The aiming overhaul always uses the resulting live
 values.
 
-With the overhaul's default curve, maximum-range slowdown at Aiming 0 depends
-on the listed gap:
+With the overhaul's v1.6 default curve, a fast weapon at Aiming 0 takes 1.5
+seconds to stabilize inside effective sight. At maximum range, its clean
+acquisition time depends on the listed gap:
 
-| Gap | Aim-time multiplier at maximum range |
+| Gap | Clean time at maximum range |
 |---:|---:|
-| 4 | 1.76x |
-| 6 | 2.39x |
-| 7 | 2.76x |
-| 8 | 3.15x |
-| 9 | 3.56x |
-| 10 or more | 4.00x |
+| 4 | 3.08 s |
+| 6 | 3.44 s |
+| 7 | 3.59 s |
+| 8 | 3.74 s |
+| 9 | 3.87 s |
+| 10 or more | 4.00 s |
+
+These are clean-condition times. Movement, pain, moodles, weather, low light,
+and vision-restricting headgear can add up to 4 seconds at Aiming 0. The
+condition cap falls to 3.25 seconds at Aiming 5 and 2.5 seconds at Aiming 10.

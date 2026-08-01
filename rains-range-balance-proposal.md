@@ -314,7 +314,7 @@ The implemented balance pass:
 3. Keeps magazine, drum, and alternate-fire-mode variants synchronized with
    their parent profile.
 4. Lazily migrates existing Rain firearm instances when they enter player or
-   visible-container scope. B42.19 serializes both range values on
+   visible-container scope. Build 42 serializes both range values on
    `HandWeapon`, so changing only the script definition is insufficient.
 5. Preserves the summed `MaxRange` bonuses from installed weapon parts and
    records a namespaced per-item migration version so later attachment or

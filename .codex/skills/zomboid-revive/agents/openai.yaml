@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zomboid Revive"
+  short_description: "Safely revive a dead Build 42 survivor"
+  default_prompt: "Use $zomboid-revive to revive my character in the most recent Project Zomboid save."

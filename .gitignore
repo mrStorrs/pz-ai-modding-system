@@ -14,4 +14,11 @@
 !/.tools/
 /.tools/*
 !/.tools/decompile-pz.sh
+!/.tools/pz-b4220-tiledef-convert.py
+!/.tools/pz-map-cell-ledger.sh
+!/.tools/pz-map-shadow-audit.sh
 !/.tools/pz-continue-debug.sh
+
+# Ignore generated Python bytecode inside explicitly tracked instruction/tool trees.
+**/__pycache__/
+*.py[cod]

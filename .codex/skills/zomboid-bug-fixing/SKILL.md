@@ -1,6 +1,6 @@
 ---
 name: zomboid-bug-fixing
-description: Debug and fix Project Zomboid mods from logs, crash output, and in-game failures. Use when investigating a broken mod, red context-menu options, Lua errors, missing assets, load failures, loot distribution bugs, over-spawning or under-spawning items, raw contained items appearing outside capsules/packs/wrappers, EasyDistro failures, or save-compatible fixes, especially when a mod is project-backed through a live symlink or only present as a real live folder that must be checked against Workshop before import.
+description: Debug and fix Project Zomboid B42.20 mods from logs, crash output, and in-game failures. Use when investigating a broken mod, red context-menu options, Lua errors, missing assets, load failures, loot distribution bugs, over-spawning or under-spawning items, raw contained items appearing outside capsules/packs/wrappers, EasyDistro failures, or save-compatible fixes, especially when a mod is project-backed through a live symlink or only present as a real live folder that must be checked against Workshop before import.
 ---
 
 # Zomboid Bug Fixing
@@ -11,15 +11,16 @@ Use this skill when a Project Zomboid mod is broken and you need to find the cau
 
 ### 1. Locate the real working copy
 
+- Read and apply `b42.20-codex-instructions.md`; diagnose only the active B42.20 game and user-data tree.
 - Prefer the project repo at `~/projects/game-mods/zomboid/<modName>`.
-- If the live entry at `/media/cjstorrs/windows/Users/cjsto/Zomboid/mods/<modName>` is already a symlink, resolve it with `readlink -f` and work in that project folder.
+- If the live entry at `/home/cjstorrs/games/Project Zomboid Linux 42.20.0/user-data/Zomboid/mods/<modName>` is already a symlink, resolve it with `readlink -f` and work in that project folder.
 - If the mod only exists as a real live folder, identify whether it is Workshop-backed before importing it. Do not import a Workshop-backed live folder until the Workshop-first check confirms upstream does not already contain the fix.
 - Project-backed live installs are symlinks back to project folders; work in the resolved project folder, not in a copied live folder.
 
 ### 2. Read the logs first
 
 - Inspect the relevant Project Zomboid logs before changing code.
-- Start with `~/Zomboid/console.txt`, then check any related crash logs, save logs, or mod-specific output under `~/Zomboid/`.
+- Start with `/home/cjstorrs/games/Project Zomboid Linux 42.20.0/user-data/Zomboid/console.txt`, then check any related crash logs, save logs, or mod-specific output under `/home/cjstorrs/games/Project Zomboid Linux 42.20.0/user-data/Zomboid/`.
 - Look for Lua stack traces, missing files, nil accesses, bad item names, broken event hooks, and load-order problems.
 - Match the log line to the mod file and code path before guessing.
 
@@ -33,7 +34,7 @@ Use this skill when a Project Zomboid mod is broken and you need to find the cau
 
 ### Loot and spawn bugs
 
-- If the failure concerns loot distribution, EasyDistro, spawn rates, zombie/container loot, capsules, packs, boxes, wrappers, or contained items appearing directly in loot, read and apply `/home/cjstorrs/projects/game-mods/zomboid/.codex/instructions/easy-distributions.md` before deciding on a fix.
+- Read and apply `/home/cjstorrs/projects/game-mods/zomboid/.codex/instructions/easy-distributions.md` only when implementing a fix that modifies an item's loot distribution, such as adding or removing that item from loot tables or changing how often it appears there. Do not invoke it merely because the affected mod contains capsules, packs, boxes, wrappers, recipes, contained items, or other spawning code.
 - If that workspace instruction file is missing, continue with this skill and identify the mod's actual loot path before editing.
 
 ### Post-change review gate
@@ -76,7 +77,7 @@ Use these rules for Project Zomboid mod repos in `~/projects/game-mods/zomboid`.
 
 - Run `lua5.1 -e "assert(loadfile('path/to/file.lua'))"` on changed Lua files when syntax checks are possible.
 - If the mod is project-backed, run `~/projects/game-mods/zomboid/link-project-mod.sh <modFolder>` before finishing so the live Zomboid mods folder has a symlink back to the project folder.
-- Verify the live link is a direct child symlink under `/media/cjstorrs/windows/Users/cjsto/Zomboid/mods`, points to the project folder with matching casing, and resolves to the expected versioned `mod.info` and assets.
+- Verify the live link is a direct child symlink under `/home/cjstorrs/games/Project Zomboid Linux 42.20.0/user-data/Zomboid/mods`, points to the project folder with matching casing, and resolves to the expected versioned `mod.info` and assets.
 - Run the post-change review gate for any code, script, asset-reference, packaging, sandbox, mod-list, or live-install change.
 - After validation and live linking, commit the fix in the project mod repo unless the user explicitly asked not to commit. Stage only files changed for the task, preserve unrelated user edits, push the committed branch, and leave the worktree clean when possible.
 - Tell the user what still needs in-game confirmation if the behavior cannot be proven outside Project Zomboid.
@@ -90,5 +91,5 @@ Use these rules for Project Zomboid mod repos in `~/projects/game-mods/zomboid`.
 ## Instruction Maintenance
 
 - If the work reveals a new recurring Project Zomboid problem, compatibility pitfall, validation pattern, or durable fix that future sessions should remember, update the relevant workspace or skill instructions while the context is fresh.
-- Keep durable generic guidance in `b42.19-codex-instructions.md`; do not recreate one-off current-state notes unless the user explicitly asks.
+- Keep durable generic guidance in `b42.20-codex-instructions.md`; do not recreate one-off current-state notes unless the user explicitly asks.
 - Keep instruction updates concise, evidence-backed, and separate from unrelated refactors or historical cleanup.
