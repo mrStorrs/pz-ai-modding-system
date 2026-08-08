@@ -37,6 +37,27 @@ Use this skill when a Project Zomboid mod is broken and you need to find the cau
 - Read and apply `/home/cjstorrs/projects/game-mods/zomboid/.codex/instructions/easy-distributions.md` only when implementing a fix that modifies an item's loot distribution, such as adding or removing that item from loot tables or changing how often it appears there. Do not invoke it merely because the affected mod contains capsules, packs, boxes, wrappers, recipes, contained items, or other spawning code.
 - If that workspace instruction file is missing, continue with this skill and identify the mod's actual loot path before editing.
 
+### Map roof-cutaway bugs
+
+- When a player can enter a building but its roof remains visible, first inspect
+  the exact `.lotpack` squares. Do not delete roof tiles unless the tiles are
+  actually absent.
+- In B42, chunk loading assigns a roof square's building from
+  `IsoMetaGrid.getEmptyOutsideAt(x, y, z)`. A roof that exists but will not cut
+  away commonly means that the owning `BuildingDef` lacks an `emptyoutside`
+  `RoomDef` at the roof level.
+- With explicit user approval and backups, repair the selected `.lotheader` by
+  adding coordinate-bounded `emptyoutside` rooms for the real roof footprint
+  and attaching their room indexes to the existing building. Append rooms; do
+  not renumber existing room indexes that the lotpack relies on. Verify the
+  patched header parses, has no duplicate room metadata IDs, and differs from
+  the verified Workshop header only as intended.
+- Do not try to set `IsoGridSquare.roofHideBuilding` from Lua. B42's Kahlua
+  bridge rejects that Java-field assignment. If logs instead show an existing
+  room with a nil `IsoRoom` definition or building (`LightingJNI` or room-audio
+  crash), use a narrowly coordinate- and bounds-validated runtime repair to
+  restore the `IsoRoom` links before lighting updates.
+
 ### Post-change review gate
 
 - After any code, script, asset-reference, packaging, sandbox, mod-list, or live-install change, read and apply `/home/cjstorrs/projects/game-mods/zomboid/.codex/skills/zomboid-review/SKILL.md` before final closeout.

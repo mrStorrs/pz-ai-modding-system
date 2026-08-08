@@ -137,6 +137,29 @@ metadata, and compiled map data. At minimum check:
 Do not invent replacements for missing assets or fixes for reports without
 enough coordinates, logs, or file evidence. Record the required reproduction.
 
+### Roof Cutaway And Room-Link Failures
+
+In B42, a visible roof above an occupied room does not by itself prove missing
+roof sprites. Inspect the exact `.lotpack` squares first. If the roof tiles are
+present, trace `IsoMetaGrid.getEmptyOutsideAt(x, y, z)`: chunk loading uses its
+result to associate the roof with an `IsoBuilding` for cutaway rendering.
+
+A building whose roof tiles exist but never cut away usually lacks an
+`emptyoutside` `RoomDef` at the roof level. After explicit user approval and
+backups, add only the verified roof-footprint rectangles as `emptyoutside` rooms
+to the selected `.lotheader`, then attach their appended room indexes to the
+existing `BuildingDef`. Preserve every existing room index and lotpack data.
+Validate that the patched header parses, has no duplicate room metadata IDs,
+and differs from the verified Workshop header only in the documented rooms and
+building references. This metadata is applied when saved chunks load, so do not
+delete a player's chunks merely to make the roof repair take effect.
+
+Do not attempt to assign `IsoGridSquare.roofHideBuilding` from Lua; B42's
+Kahlua bridge rejects that Java-field write. A separate, coordinate-bounded
+runtime repair is appropriate only when a known room's `IsoRoom` definition or
+building link is nil and logs show a lighting or room-audio dereference crash.
+Validate the exact room name, bounds, and z-level before restoring links.
+
 ### 5. Audit Room Labels And Container Loot
 
 Map authors can place the correct military crate or locker sprite inside a room
